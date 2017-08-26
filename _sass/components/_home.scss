@@ -1,0 +1,12 @@
+.home {
+	&_bg{
+		background: url(/assets/surface_white.png) no-repeat center -5em fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 40em;
+    text-align: center;
+    border-bottom: 1px solid $gray;
+	}
+}

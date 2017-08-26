@@ -2,8 +2,17 @@
 layout: default
 title: Home
 ---
-<div class="row_lg">
-	<div class="container_xl">
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime ipsa ullam totam repellendus repellat velit deleniti et corporis blanditiis libero eligendi recusandae consequatur quo hic, laudantium iusto! Voluptatibus voluptates, reprehenderit!</p>
+<div class="home_bg">
+	<div class="row_lg">
+		<div class="container_lg">
+			<h1 class="text_charcoal">Let's launch something!</h1>
+			<p>{{site.description}}</p>
+		</div>
+	</div>
+</div>
+
+<div class="row_md bg_white">
+	<div class="container_lg">
+		<h3 class="text_center">3...2...1</h3>
 	</div>
 </div>

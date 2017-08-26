@@ -1,0 +1,6 @@
+.text {
+	&_light{font-family: 'Benton Light', arial, sans-serif};
+	&_charcoal{color: $charcoal;};
+	&_dark{color: $dark;};
+	&_center{text-align: center;}
+}

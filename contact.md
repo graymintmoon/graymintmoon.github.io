@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Contact
 ---
 <div class="row_xs">
 	<div class="container">
