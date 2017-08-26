@@ -1,8 +1,11 @@
 .form {
 	&_block {
 		width: 100%;
-		max-width: $md-screen;
 		margin: 0 auto;
+	}
+
+	&_introduction {
+		padding-bottom: 1em;
 	}
 
 	&_section_title {
