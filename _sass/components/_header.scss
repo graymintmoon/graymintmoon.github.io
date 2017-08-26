@@ -1,0 +1,70 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	
+	@include media-query($md-screen) {
+		flex-direction: column
+	}
+
+	&_logo {
+		max-width: $spacing-unit; 
+		padding-right: $spacing-unit / 4;
+		@include media-query($md-screen) {
+			display: none;
+		}
+	}
+
+	&_logo_mobile {
+		display: none;
+		@include media-query($md-screen) {
+			display: block;
+			max-width: $spacing-unit * 4;
+		}
+	}
+
+	&_brand {
+		@include media-query($md-screen) {
+			margin-bottom: $spacing-unit;
+		}
+	}
+	
+	&_homelink{
+		display: flex;
+		align-items: center;
+		flex-direction: row;
+		text-decoration: none;
+		color: $charcoal;
+		font-weight: normal;
+
+		@include media-query($md-screen) {
+			flex-direction: column;
+		}
+	}
+
+	&_nav {
+		list-style-type: none;
+	}
+
+	&_nav_item {
+		display: inline-block;
+		padding-left: $spacing-unit / 2;
+
+		&:hover {
+			color: $charcoal;
+		}
+
+		@include media-query($md-screen) {
+			padding: $spacing-unit / 4 $spacing-unit / 2;
+		}
+
+		@include media-query($sm-screen) {
+			padding: 0 $spacing-unit / 3.5;
+			font-size: .875em;
+		}
+
+		&:hover {
+			color: $charcoal;
+		}
+	}
+}

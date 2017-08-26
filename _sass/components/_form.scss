@@ -1,0 +1,81 @@
+.form {
+	&_block {
+		width: 100%;
+		max-width: $md-screen;
+		margin: 0 auto;
+	}
+
+	&_section_title {
+		padding-top: 0;
+		margin-top: 0;
+	}
+
+	&_fieldset {
+		border: 1px solid $gray;
+		margin-bottom: $spacing-unit;
+		padding: 2em;
+	}
+
+	&_two_columns {
+		display: flex;
+		justify-content: space-between;
+
+		@include media-query($sm-screen) {flex-direction:column}
+	}
+
+	&_inline_inputs {
+		display: flex;
+		margin-bottom: $spacing-unit;
+	}
+
+	&_inline_input_item {
+		margin-right: $spacing-unit;
+		@include media-query($sm-screen) {margin-right: $spacing-unit / 2;}
+	}	
+
+	&_column {
+		width: 45%;
+		@include media-query($sm-screen) {width: 100%;}
+	}
+
+	&_label {
+		font-size: .875em;
+	}
+
+	&_input {
+		display: block;
+		width: 100%;
+		border: 1px solid $gray;
+		font-size: .875em;
+		padding: 2px 3px;
+		margin-bottom: $spacing-unit;
+	}
+
+	&_textarea {
+		display: block;
+		width: 100%;
+		border: 1px solid $gray;
+		font-size: .875em;
+		padding: 2px 3px;
+		&:not(:last-child){
+			margin-bottom: $spacing-unit;
+		}
+	}
+
+	&_checkbox {
+		display: inline-block;
+		margin-right: $spacing-unit / 6;
+	}
+
+	&_checkbox_label {
+		font-size: .875em;
+	}
+
+	&_submit {
+		display: block;
+		background: $jungle;
+		border: 1px solid $dark;
+		color: $dark;
+		padding: $spacing-unit / 4 $spacing-unit;
+	}
+}

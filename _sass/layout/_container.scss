@@ -1,0 +1,16 @@
+@mixin container {
+	display: block;
+	margin: 0 auto;
+	width: 100%;
+	max-width: 100%;
+	padding: 0 1em;
+	box-sizing: border-box;
+}
+
+.container {
+	@include container;
+	&_xl {@include container; max-width: $xl-screen;}
+	&_lg {@include container; max-width: $lg-screen;}
+	&_md {@include container; max-width: $md-screen;}
+	&_sm {@include container; max-width: $sm-screen;}
+}
