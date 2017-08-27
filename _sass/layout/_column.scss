@@ -1,22 +1,23 @@
 .column {
-	&_half {
+	&_fourths {
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		@include media-query($md-screen) {
+		@include media-query($xl-screen) {
+			flex-wrap: wrap;
+		}
+
+		@include media-query($sm-screen) {
 			flex-direction: column;
 		}
 	}
 
-	&_half_block {
-		width: 45%;
-		@include media-query($md-screen) {
-			width: 100%
+	&_quarter {
+		width: 23%;
+		@include media-query($xl-screen) {
+			width: 45%
 		}
-	}
 
-	&_third_block {
-		width: 30%;
 		@include media-query($md-screen) {
 			width: 100%
 		}

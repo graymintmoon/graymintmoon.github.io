@@ -9,6 +9,7 @@
 
 .container {
 	@include container;
+	&_xxl {@include container; max-width: $xxl-screen;}
 	&_xl {@include container; max-width: $xl-screen;}
 	&_lg {@include container; max-width: $lg-screen;}
 	&_md {@include container; max-width: $md-screen;}
