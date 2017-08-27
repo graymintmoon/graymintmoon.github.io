@@ -1,0 +1,11 @@
+.img {
+	&_full {
+		width: 100%;
+
+		@include media-query($sm-screen) {
+			width: 75%;
+			display: block;
+			margin: 0 auto;
+		}
+	}
+}

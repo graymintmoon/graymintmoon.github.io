@@ -1,0 +1,26 @@
+.column {
+	&_half {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		@include media-query($md-screen) {
+			flex-direction: column;
+		}
+	}
+
+	&_half_block {
+		width: 45%;
+		@include media-query($md-screen) {
+			width: 100%
+		}
+	}
+
+	&_third_block {
+		width: 30%;
+		@include media-query($md-screen) {
+			width: 100%
+		}
+	}
+
+
+}
