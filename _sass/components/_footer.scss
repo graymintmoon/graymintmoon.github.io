@@ -1,3 +1,31 @@
 .footer {
-	background: $jungle;
+	background: $charcoal;
+	color: $white;
+
+	&_link {
+		color: $jungle;
+		font-size: .875em;
+
+		&:hover {
+			text-decoration: underline;
+			cursor: pointer;
+			color: $jungle;
+		}
+	}
+
+	&_list {
+		list-style-type: none;
+		margin-top: 0;
+		padding-left: 0;
+	}
+
+	&_list_item {
+		line-height: 1.8;
+		color: $white;
+
+		&:hover {
+			text-decoration: underline;
+			cursor: pointer;
+		}
+	}
 }

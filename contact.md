@@ -3,15 +3,17 @@ layout: page
 title: Contact
 ---
 <div class="form_block">
-	<div class="form_introduction">
-		<h3>Hello!</h3>
-		<h4>Thank you for your interest in working with Gray Mint Moon. We are excited to learn more about you, your business, and your overall goals.</h4>
+	<div class="form_introduction text_center">
+		<div class="container_md">
+			<h2 class="text_charcoal">Hello!</h2>
+			<h4>Thank you for your interest in working with Gray Mint Moon. We are excited to learn more about you, your business, and your overall goals.</h4>
+		</div>
 	</div>
 	<form action="https://formspree.io/graymintmoon@gmail.com"
 		method="POST">
 		<input class="contact-form" type="hidden" name="_next" value="/">
 		<fieldset class="form_fieldset">
-			<h3 class="form_section_title">About You</h3>
+			<h3 class="form_section_title text_center">About You</h3>
 			<label class="form_label" for="name">Your name</label>
 			<input class="form_input" type="text" name="name">
 			<div class="form_two_columns">
@@ -26,7 +28,7 @@ title: Contact
 			</div>
 		</fieldset>
 		<fieldset class="form_fieldset">
-			<h3 class="form_section_title">About Your Company</h3>
+			<h3 class="form_section_title text_center">About Your Company</h3>
 			<label class="form_label" for="company-name">Your company name</label>
 			<input class="form_input" type="text" name="company-name">
 			<div class="form_two_columns">
@@ -43,7 +45,7 @@ title: Contact
 			<input class="form_input" type="text" name="company-address">
 		</fieldset>
 		<fieldset class="form_fieldset">
-			<h3 class="form_section_title">Let's discuss your website</h3>
+			<h3 class="form_section_title text_center">Let's discuss your website</h3>
 			<div class="form_two_columns">
 				<div class="form_column">
 					<label class="form_label" for="company-url">Your URL address (if available)</label>
@@ -77,7 +79,7 @@ title: Contact
 			</div>
 		</fieldset>
 		<fieldset class="form_fieldset">
-			<h3 class="form_section_title">Some helpful information</h3>
+			<h3 class="form_section_title text_center">Some helpful information</h3>
 			<label class="form_label" for="ideal-date">Do you have an ideal due date?</label>
 			<input class="form_input" id="idealDate" type="date" name="ideal-date">
 			<label class="form_label" for="website-reason">What are your main reasons for wanting to build a website?</label>

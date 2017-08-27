@@ -51,7 +51,7 @@
 		padding-left: $spacing-unit / 2;
 
 		&:hover {
-			color: $charcoal;
+			color: $dark;
 		}
 
 		@include media-query($md-screen) {
@@ -61,10 +61,6 @@
 		@include media-query($sm-screen) {
 			padding: 0 $spacing-unit / 3;
 			font-size: .875em;
-		}
-
-		&:hover {
-			color: $charcoal;
 		}
 	}
 }

@@ -3,7 +3,9 @@
 	&_charcoal{color: $charcoal;};
 	&_dark{color: $dark;};
 	&_jungle{color: $jungle}
+	&_white{color: $white}
 
 	&_center{text-align: center;}
+	&_small{font-size: .875em}
 	&_trim_bottom {margin-bottom: 0;}
 }

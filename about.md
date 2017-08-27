@@ -2,6 +2,7 @@
 layout: page
 title: About
 ---
-
-<h3>One small title</h3>
-<h4>One giant blank About page for mankind</h4>
+<div class="text_center">
+	<h2 class="text_charcoal">One small title</h2>
+	<h4>One giant blank About page for mankind</h4>
+</div>

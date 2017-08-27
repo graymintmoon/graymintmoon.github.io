@@ -1,15 +1,19 @@
+@mixin column_flex {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	@include media-query($xl-screen) {
+		flex-wrap: wrap;
+	}
+
+	@include media-query($sm-screen) {
+		flex-direction: column;
+	}
+}
+
 .column {
 	&_fourths {
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-		@include media-query($xl-screen) {
-			flex-wrap: wrap;
-		}
-
-		@include media-query($sm-screen) {
-			flex-direction: column;
-		}
+		@include column_flex;
 	}
 
 	&_quarter {
@@ -25,5 +29,15 @@
 		}
 	}
 
+
+	&_thirds {
+		@include column_flex;
+	}
+
+	&_third_block {
+		width: 30%;
+		padding-bottom: $spacing-unit;
+		align-self: flex-start;
+	}
 
 }

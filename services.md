@@ -2,5 +2,7 @@
 layout: page
 title: Services
 ---
-<h3>Preparing for take-off</h3>
-<h4>We have to make sure everything is in place!</h4>
+<div class="text_center">
+	<h2 class="text_charcoal">Preparing for take-off</h2>
+	<h4>We have to make sure everything is in place!</h4>
+</div>
