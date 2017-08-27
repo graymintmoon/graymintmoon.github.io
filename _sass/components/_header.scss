@@ -25,7 +25,7 @@
 
 	&_brand {
 		@include media-query($md-screen) {
-			margin-bottom: $spacing-unit;
+			margin-bottom: $spacing-unit / 1.25;
 		}
 	}
 	
@@ -59,7 +59,7 @@
 		}
 
 		@include media-query($sm-screen) {
-			padding: 0 $spacing-unit / 3.5;
+			padding: 0 $spacing-unit / 3;
 			font-size: .875em;
 		}
 
