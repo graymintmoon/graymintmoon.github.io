@@ -1,13 +1,29 @@
 .home {
-	&_bg{
-	background: url(/assets/surface_white.png) no-repeat center -5em fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    min-height: 40em;
-    text-align: center;
+	&_bg:after{
+	// background: url(/assets/surface_white.png) no-repeat center -5em fixed;
+ //    -webkit-background-size: cover;
+ //    -moz-background-size: cover;
+ //    -o-background-size: cover;
+ //    background-size: cover;
+ //    min-height: 40em;
+ //    text-align: center;
     
+
+    
+      content: "";
+      position: fixed;
+      top: 0;
+      /* height: 100vh; */
+      left: 0;
+      right: 0;
+      z-index: -1;
+      background: url(/assets/surface_white.png) center -2em;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      min-height: 40em;
+    }
     @include media-query($md-screen) {
 	    background-position-y: 0;
         background-attachment: scroll;
