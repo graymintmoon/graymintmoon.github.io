@@ -4,7 +4,7 @@ title: Home
 ---
 <div class="home_bg">
 	<div class="row_lg">
-		<div class="container_lg">
+		<div class="container_lg text_center">
 			<h1 class="text_jungle">Let's launch something!</h1>
 			<p>{{site.description}}</p>
 		</div>
