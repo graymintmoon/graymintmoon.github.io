@@ -36,7 +36,6 @@
 		padding: $spacing-unit * 2 0;
 		
 		@include media-query($md-screen) {padding: $spacing-unit 0;}
-		@include media-query($sm-screen) {padding: $spacing-unit / 2 0;}
 	}
 	
 	&_xs {
