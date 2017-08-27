@@ -38,6 +38,10 @@
 		width: 30%;
 		padding-bottom: $spacing-unit;
 		align-self: flex-start;
+
+		@include media-query($md-screen) {
+			width: 100%;
+		}
 	}
 
 }

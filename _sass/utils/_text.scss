@@ -1,5 +1,7 @@
 .text {
 	&_light{font-family: 'Benton Light', arial, sans-serif};
+	&_regular{font-family: 'Benton Regular', arial, sans-serif};
+	
 	&_charcoal{color: $charcoal;};
 	&_dark{color: $dark;};
 	&_jungle{color: $jungle}

@@ -4,7 +4,7 @@ title: Contact
 ---
 <div class="form_block">
 	<div class="form_introduction text_center">
-		<div class="container_md">
+		<div class="container_lg">
 			<h2 class="text_charcoal">Hello!</h2>
 			<h4>Thank you for your interest in working with Gray Mint Moon. We are excited to learn more about you, your business, and your overall goals.</h4>
 		</div>
