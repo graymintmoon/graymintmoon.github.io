@@ -13,7 +13,7 @@ title: Home
 <div class="row_trim_bottom bg_lightgray">
 	<div class="container_lg text_center">
 		<h3>How we can help</h3>
-		<p>At Gray Mint Moon, your goals become our own. We make a personal investments in creating true, human-to-human  connections with our clients. Here's what we can do for you:  </p>
+		<p>At Gray Mint Moon, your goals become our own. We make a personal investment in creating true, human-to-human  connections with our clients. Here's what we can do for you:  </p>
 	</div>
 </div>
 
