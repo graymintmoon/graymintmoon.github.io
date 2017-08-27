@@ -1,14 +1,15 @@
 .home {
 	&_bg{
-		background: url(/assets/surface_white.png) no-repeat center -5em fixed;
+	background: url(/assets/surface_white.png) no-repeat center -5em fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     min-height: 40em;
     text-align: center;
+    
     @include media-query($md-screen) {
 	    background-position-y: 0;
+        background-attachment: scroll;
     }
-	}
 }
