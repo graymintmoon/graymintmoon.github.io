@@ -20,7 +20,7 @@ title: Home
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
 			</div><div class="column_third_block">
-			<img class="img_full" src="{{site.url}}/assets/mac.png" alt="">
+			<img class="img_full" src="{{site.url}}/assets/code.png" alt="">
 			<h4 class="text_center">We help you build</h4>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
