@@ -14,6 +14,8 @@
 
 	&_quarter {
 		width: 23%;
+		padding-bottom: $spacing-unit;
+		align-self: flex-start;
 		@include media-query($xl-screen) {
 			width: 45%
 		}
