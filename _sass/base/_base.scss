@@ -8,4 +8,8 @@ body {
   background: $white;
   line-height: $base-line-height;
   position: relative;
+
+  @include media-query($sm-screen) {
+  	font-size: $base-font-size * .9;
+  }
 }

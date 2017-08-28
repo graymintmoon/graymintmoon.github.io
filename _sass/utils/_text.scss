@@ -1,12 +1,15 @@
 .text {
 	&_light{font-family: 'Benton Light', arial, sans-serif};
+	&_medium{font-family: 'Benton Medium', arial, sans-serif};
 	&_regular{font-family: 'Benton Regular', arial, sans-serif};
+	&_bold{font-family: 'Benton Bold', arial, sans-serif};
 	
 	&_charcoal{color: $charcoal;};
 	&_dark{color: $dark;};
 	&_jungle{color: $jungle}
 	&_white{color: $white}
 	&_blue{color: $blue}
+	&_mint{color: $mint}
 
 	&_center{text-align: center;}
 	&_left{text-align: left;}

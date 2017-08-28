@@ -3,28 +3,28 @@
 	justify-content: space-between;
 	align-items: center;
 	
-	@include media-query($md-screen) {
+	@include media-query($lg-screen) {
 		flex-direction: column
 	}
 
 	&_logo {
 		max-width: $spacing-unit; 
 		padding-right: $spacing-unit / 4;
-		@include media-query($md-screen) {
+		@include media-query($lg-screen) {
 			display: none;
 		}
 	}
 
 	&_logo_mobile {
 		display: none;
-		@include media-query($md-screen) {
+		@include media-query($lg-screen) {
 			display: block;
 			max-width: $spacing-unit * 4;
 		}
 	}
 
 	&_brand {
-		@include media-query($md-screen) {
+		@include media-query($lg-screen) {
 			margin-bottom: $spacing-unit / 1.25;
 		}
 	}
@@ -37,21 +37,27 @@
 		color: $charcoal;
 		font-weight: normal;
 
-		@include media-query($md-screen) {
+		@include media-query($lg-screen) {
 			flex-direction: column;
 		}
 	}
 
 	&_nav {
 		list-style-type: none;
+		padding: 0 $spacing-unit / 2;
 	}
 
 	&_nav_item {
 		display: inline-block;
-		padding-left: $spacing-unit / 2;
+		padding: $spacing-unit / 2;
+		transition: color 1s, font-family 1s;
 
 		&:hover {
-			color: $dark;
+			transition: color 1s, font-family 1s;
+			font-family: 'Benton Regular';
+			color: $blue;
+			border-bottom: 1px solid $blue;
+			margin-bottom: -1px;
 		}
 
 		@include media-query($md-screen) {
