@@ -6,7 +6,7 @@ title: Contact
 	<div class="form_introduction text_center">
 		<div class="container_lg">
 			<h2 class="text_charcoal">Hello!</h2>
-			<h4>Thank you for your interest in working with Gray Mint Moon. We are excited to learn more about you, your business, and your overall goals.</h4>
+			<h4>Thank you for your interest in working with us. We are excited to learn more about you, your business, and your overall goals. Or, you can email us at <a class="text_jungle text_regular" href="mailto:graymintmoon">graymintmoon@gmail.com</a> to get the conversation going!</h4>
 		</div>
 	</div>
 	<form action="https://formspree.io/graymintmoon@gmail.com"
@@ -70,7 +70,7 @@ title: Contact
 			<div class="form_inline_inputs">
 				<div class="form_inline_input_item">
 					<input class="form_checkbox" type="checkbox" id="buy-domain" name="buy-domain" value="yes">
-					<label class="form_checkbox_label" for="buy-domain">Yes, please</label>
+					<label class="form_checkbox_label" for="buy-domain">Yes please</label>
 				</div>
 				<div class="form_inline_input_item">
 					<input class="form_checkbox" type="checkbox" id="buy-domain" name="dont-buy-domain" value="no thanks">

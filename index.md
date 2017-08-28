@@ -2,9 +2,6 @@
 layout: default
 title: Home
 ---
-<div id="scrollUp" class="home_scroll_up">
-	<img src="{{site.url}}/assets/scroll_up.png" alt="">
-</div>
 <div class="home_bg">
 	<div class="row_lg">
 		<div class="container_lg text_center">
