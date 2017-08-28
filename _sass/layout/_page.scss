@@ -1,0 +1,13 @@
+.page {
+	&_title {
+		padding-bottom: 1em;
+	}
+
+	&_subtitle {
+		padding-bottom: $spacing-unit * .5;
+	}
+
+	p {
+		font-family: 'Benton Light', arial, sans-serif;
+	}
+}

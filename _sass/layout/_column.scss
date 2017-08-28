@@ -12,11 +12,37 @@
 }
 
 .column {
+	&_half {
+		@include column_flex;
+	}
+
+	&_half_block {
+		width: 45%;
+		padding-bottom: $spacing-unit * 1.5;
+		align-self: flex-start;
+
+		@include media-query($lg-screen) {
+			width: 100%
+		}
+
+		&:first-child {
+			padding-right: 3em;
+			border-right: 1px dotted $jungle;
+			@include media-query($xl-screen) {
+				padding-right: 2.5em;
+			}
+			@include media-query($lg-screen) {
+				padding-right: 0;
+				border-right: none;
+			}
+		}
+	}	
+
 	&_fourths {
 		@include column_flex;
 	}
 
-	&_quarter {
+	&_fourth_block {
 		width: 23%;
 		padding-bottom: $spacing-unit;
 		align-self: flex-start;
