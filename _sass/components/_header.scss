@@ -19,6 +19,7 @@
 		display: none;
 		@include media-query($lg-screen) {
 			display: block;
+			padding-top: $spacing-unit / 2;
 			max-width: $spacing-unit * 4;
 		}
 	}

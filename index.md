@@ -58,9 +58,10 @@ title: Home
 			</div>
 			<div class="column_half_block">
 				<h3 class="text_center text_regular">Khristine</h3>
-				<h5 class="text_center">MARKETING + PROJECT MANAGEMENT</h5>
-				<p class="text_light">Khristine is a homemaker, homeschool educator, holistic health enthusiast, and the owner of Lotus Light Moon. In her past life, she was a Senior Paralegal for a highly reputable law firm in Southern California.</p>
-				<p class="text_light">She loves laughing and interacting with her family, traveling, and going on family dates. Her personal interests include yoga, learning new languages, and studying how to leverage the benefits of Minimalism and Feng Shui in every day home life.</p>
+				<h5 class="text_center">DIGITAL MARKETING + PROJECT MANAGEMENT</h5>
+				<p class="text_light">Khristine is a homemaker, alternative educator, holistic health enthusiast, and the founder of Lotus Light Moon. She helps Mothers leverage the magical benefits of Minimalism and Feng Shui in everyday family life.</p>
+				<p class="text_light">Khristine is an instinctive nurturer. She adores her husband and two sons, loves caring for and laughing with her family, and going on family dates. She enjoys traveling, learning new languages, and practicing Kripalu yoga and loving-kindness meditation.</p>
+				<p class="text_light">Khristine promotes the power of authenticity and being aligned with the Universe. She encourages others to listen to the dreams in their hearts and pursue their life's truest calling.</p>
 			</div>
 		</div>
 		<p></p>
