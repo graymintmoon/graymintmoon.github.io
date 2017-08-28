@@ -1,0 +1,20 @@
+<script>
+$(document).ready(function(){
+	$('#scrollUp').click(function(){
+		$("html, body").animate({ scrollTop: 0 }, "slow");
+	});
+
+
+	$(document).scroll(function() {
+	  var y = $(this).scrollTop();
+	  if (y > 80) {
+	    $('#scrollUp').fadeIn();
+	  } else {
+	    $('#scrollUp').fadeOut();
+	  }
+	});
+
+
+
+});
+</script>
