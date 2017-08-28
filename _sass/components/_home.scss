@@ -12,6 +12,11 @@
       background-position-y: 0;
       background-attachment: scroll;
     }
+
+    @media only screen  and (min-width : 1441px) {
+      min-height: 43em;
+      background-position-y: -6em;
+    }
   }
 
   &_scroll_up {
