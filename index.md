@@ -54,7 +54,7 @@ title: Home
 				<h3 class="text_center text_regular">Randy</h3>
 				<h5 class="text_center">CODE + DESIGN + STRATEGY</h5>
 				<p class="text_light">Randy is a Senior Web Developer with a gravitational pull towards front-end development and design. His experience includes working on major non-profit organization websites, along with full-stack software development during his time at IBM.</p>
-				<p class='text_light'>When he's not writing code, you can find him hanging out with his family, practicing on the piano, maybe sewing, or in the garage working on a DIY project.</p>
+				<p class='text_light'>He loves spending time with his wife and two sons, as well as DIY woodworking projects. He sees the world through a spiritual lens and is always seeking ways to share what he's learned with others.</p>
 			</div>
 			<div class="column_half_block">
 				<h3 class="text_center text_regular">Khristine</h3>
