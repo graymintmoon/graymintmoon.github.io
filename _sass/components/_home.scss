@@ -5,7 +5,7 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    min-height: 40em;
+    min-height: 35em;
     text-align: center;
 
     @include media-query($md-screen) {

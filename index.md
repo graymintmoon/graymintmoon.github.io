@@ -54,13 +54,13 @@ title: Home
 				<h3 class="text_center text_regular">Randy</h3>
 				<h5 class="text_center">CODE + DESIGN + STRATEGY</h5>
 				<p class="text_light">Randy is a Senior Web Developer with a gravitational pull towards front-end development and design. His experience includes working on major non-profit organization websites, along with full-stack software development during his time at IBM.</p>
-				<p class='text_light'>When he's not writing code, you can find him hanging out with his family, sewing, or sanding off a woodworking project.</p>
+				<p class='text_light'>When he's not writing code, you can find him hanging out with his family, practicing on the piano, maybe sewing, or in the garage working on a DIY project.</p>
 			</div>
 			<div class="column_half_block">
 				<h3 class="text_center text_regular">Khristine</h3>
 				<h5 class="text_center">MARKETING + PROJECT MANAGEMENT</h5>
 				<p class="text_light">Khristine is a homemaker, homeschool educator, holistic health enthusiast, and the owner of Lotus Light Moon. In her past life, she was a Senior Paralegal for a highly reputable law firm in Southern California.</p>
-				<p class="text_light">Her personal interests include yoga, meditating, and studying how to leverage the benefits of minimalism and Feng Shui in every day home life.</p>
+				<p class="text_light">She loves laughing and interacting with her family, traveling, and going on family dates. Her personal interests include yoga, learning new languages, and studying how to leverage the benefits of Minimalism and Feng Shui in every day home life.</p>
 			</div>
 		</div>
 		<p></p>
