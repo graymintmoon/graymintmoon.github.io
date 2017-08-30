@@ -10,32 +10,32 @@ title: Home
 		</div>
 	</div>
 </div>
-<div class="row_trim_bottom bg_lightgray">
+<div class="row_trim_bottom bg_white">
 	<div class="container_lg text_center">
 		<h3>How we can help</h3>
 		<p>At Gray Mint Moon, your goals become our own. We make a personal investment in creating true, human-to-human  connections with our clients. Here's what we can do for you:  </p>
 	</div>
 </div>
-<div class="row_sm bg_lightgray">
+<div class="row_sm bg_white">
 	<div class="container_xxl text_center">
 		<div class="column_fourths">
 			<div class="column_fourth_block">
-				<img class="img_full" src="{{site.url}}/assets/idea.png" alt="">
+				<img class="img_full" src="{{site.url}}/assets/idea_colors.png" alt="">
 				<h4 class="text_center text_regular">You have an idea</h4>
 				<p class="text_light">Maybe you have an idea, or you're just starting up your own business - we are here to help you establish a healthy web presence.</p>
 			</div>
 			<div class="column_fourth_block">
-				<img class="img_full" src="{{site.url}}/assets/code.png" alt="">
+				<img class="img_full" src="{{site.url}}/assets/code_colors.png" alt="">
 				<h4 class="text_center text_regular">We help you build</h4>
 				<p class="text_light">We are happy to offer years of professional experience, skills, and prior knowledge so that your business website is successful.</p>
 			</div>
 			<div class="column_fourth_block">
-				<img class="img_full" src="{{site.url}}/assets/devices.png" alt="">
+				<img class="img_full" src="{{site.url}}/assets/devices_colors.png" alt="">
 				<h4 class="text_center text_regular">Increase visibility</h4>
 				<p class="text_light">Your target audience needs access to what you offer! You can count on having increased visibility that is available to your business audience.</p>
 			</div>
 			<div class="column_fourth_block">
-				<img class="img_full" src="{{site.url}}/assets/launch.png" alt="">
+				<img class="img_full" src="{{site.url}}/assets/launch_colors.png" alt="">
 				<h4 class="text_center text_regular">Ready for liftoff</h4>
 				<p class="text_light">If you need help with figuring out hosting, domain names, launching or maintaining your website - let us take care of that.</p>
 			</div>
@@ -58,7 +58,7 @@ title: Home
 			</div>
 			<div class="column_half_block">
 				<h3 class="text_center text_regular">Khristine</h3>
-				<h5 class="text_center">DIGITAL MARKETING + PROJECT MANAGEMENT</h5>
+				<h5 class="text_center">DIGITAL MARKETING + SOCIAL MEDIA  MANAGER</h5>
 				<p class="text_light">Khristine is a homemaker, an alternative educator, a holistic health enthusiast, and the founder of Lotus Light Moon. She helps Mothers leverage the magical benefits of Minimalism and Feng Shui in everyday family life.</p>
 				<p class="text_light">Khristine is an instinctive nurturer. She adores her husband and two sons, loves laughing with her family on the living room floor, and relishes going on family dates to discover new destinations. She enjoys traveling, learning languages, and practicing Kripalu yoga and loving-kindness meditation.</p>
 			</div>

@@ -1,0 +1,14 @@
+@mixin divider {
+  border: 0;
+  height: 0;
+  margin: $spacing-unit / 2 0 $spacing-unit / 2 0;
+}
+
+.divider {
+	@include divider;
+  border-top: 2px solid $jungle;
+  width: $spacing-unit * 2;
+  margin: 0 auto;
+  padding-bottom: $spacing-unit;
+
+}
