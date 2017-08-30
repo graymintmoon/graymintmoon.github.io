@@ -4,28 +4,26 @@ title: About
 ---
 <div class="text_center">
 	<h2 class="text_charcoal">About Us</h2>
-	<h5 class="page_subtitle">it all starts with a dream</h5>
+	<h4 class="page_subtitle">it all starts with a dream</h4>
 	<hr class="divider">
 </div>
 
-- wanting to freelance
-- wanting to begin a business
-- connecting with other holistic health professionals
-- providing services/guidance for those
-- we know what it's like
-- alleviating the pains of having to navigate the web
-- maybe you're stuck
+<h5 class="page_section_title text_center">the departure & arrival</h5>
 
-<p>A few years ago, after feeling stuck in my career path and seeing the dire need to change trajectories, for the sake of my family's future, we decided to take a risk and make a career change.</p>
+<p>A few years ago, after feeling stuck in my career path and sensing the dire need to transform the trajectory of our family's future, we decided to plunge heart-first into a drastic career change.</p>
 
-<p>That career change required that our family to relocate from sunny southern California to the tech-hub of Austin, Texas. Here, I'd learn to to code and </p>
+<p>That life-changing decision required our family to leave our home and relocate from sunny southern California to the tech-hub of Austin, Texas.</p>
 
+<p>Here, I accelerated my education by learning to code. Within 6 months of arriving in Austin, had landed my first job as a developer.</p>
 
-<h5 class="page_section_title text_center">taking risks</h5>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h5 class="page_section_title text_center">present day</h5>
+
+<p>In the Summer of 2017, Khristine followed her calling to create a heart-centered online business as a minimalism and Feng Shui consultant for mothers around the world.</p>
+
+<p>Around the same time, I too wanted to pursue a dream, one that allowed me to leverage my skills and expertise towards helping others launch their business websites.</p>
+
+<p>Appropriately, we discovered the opportunity to intersect our personal callings. It felt appropriate to focus my client niche on people like my wife, who are holistic entrepreneurs looking to make a positive change in the world.</p>
+
+<p>On the day of the total solar eclipse of 2017, when the Earth, Moon, and Sun aligned, we commemorated the rare celestial event by formally naming both our business with lunar references - Lotus Light Moon and Gray Mint Moon.</p>
+
 

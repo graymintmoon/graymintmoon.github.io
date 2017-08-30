@@ -1,17 +1,18 @@
 .footer {
-	background: $warning;
-	color: $dark;
+	background: $charcoal;
+	color: $white;
 
 	&_title {
 		margin-top: 0;
 		padding-bottom: 0;
-		margin-bottom: .5em;
+		margin-bottom: 0;
 		font-size: 1em;
 	}
 
 	&_link {
-		color: $dark;
+		color: $white;
 		font-size: .875em;
+		font-family: 'Benton Light', arial, sans-serif;
 
 		&:hover {
 			text-decoration: underline;
@@ -28,7 +29,8 @@
 
 	&_list_item {
 		line-height: 1.8;
-		color: $dark;
+		color: $white;
+		font-family: 'Benton Light', arial, sans-serif;
 
 		&:hover {
 			text-decoration: underline;
