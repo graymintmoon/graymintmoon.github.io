@@ -35,7 +35,7 @@
 		align-items: center;
 		flex-direction: row;
 		text-decoration: none;
-		color: $charcoal;
+		color: darken($gray, 25%);
 		font-weight: normal;
 
 		@include media-query($lg-screen) {
