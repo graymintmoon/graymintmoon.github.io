@@ -1,6 +1,6 @@
 .footer {
-	background: $charcoal;
-	color: $white;
+	background: $warning;
+	color: $dark;
 
 	&_title {
 		margin-top: 0;
@@ -10,13 +10,13 @@
 	}
 
 	&_link {
-		color: $jungle;
+		color: $dark;
 		font-size: .875em;
 
 		&:hover {
 			text-decoration: underline;
 			cursor: pointer;
-			color: $jungle;
+			color: $dark;
 		}
 	}
 
@@ -28,7 +28,7 @@
 
 	&_list_item {
 		line-height: 1.8;
-		color: $white;
+		color: $dark;
 
 		&:hover {
 			text-decoration: underline;

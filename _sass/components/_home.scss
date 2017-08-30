@@ -9,8 +9,7 @@
     text-align: center;
 
     @include media-query($md-screen) {
-      background-position-y: 0;
-      background-attachment: scroll;
+      background-position-y: 1px;
     }
 
     @media only screen  and (min-width : 1441px) {
