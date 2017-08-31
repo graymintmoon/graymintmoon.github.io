@@ -42,6 +42,6 @@ title: About
 <div class="row_sm">
 	<div class="text_regular text_small">
 		<em>“And, when you want something, all the universe conspires in helping you to achieve it.”</em><br>
-		<em>- Paulo Coelho, The Alchemist</em>
+		- Paulo Coelho, The Alchemist
 	</div>
 </div>
