@@ -6,7 +6,7 @@ title: Services
 	<div class="container_lg">
 		<div class="text_center">
 			<h2 class="text_charcoal">Services</h2>
-			<h4>The following pre-made packages are simple starting points to choose from. You may also extend any package with <a href="#add-ons">additional services</a>. </h4>
+			<h4>The following pre-made packages are simple starting points to help you get started. You may also extend any package with <a href="#add-ons">additional services</a>. </h4>
 		</div>
 	</div>
 </div>

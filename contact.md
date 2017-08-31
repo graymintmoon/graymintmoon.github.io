@@ -103,6 +103,9 @@ title: Contact
 
 			<label class="form_label" for="products-services">What unique products or services do you offer your audience/clients?<span class="text_red">*</span></label>
 			<textarea class="form_textarea" rows="3" type="text" name="products-services" required></textarea>
+
+			<label class="form_label" for="favorite-sites">What are 3 of your favorite websites and why?<span class="text_red">*</span></label>
+			<textarea class="form_textarea" rows="3" type="text" name="favorite-sites" required></textarea>
 			
 			<label class="form_label" for="3 words">List 3 key words that describe your company:</label>
 			<input type="text" class="form_input" name="3 words">
