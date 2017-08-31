@@ -80,13 +80,8 @@ title: Contact
 		</fieldset>
 		<fieldset class="form_fieldset">
 			<h3 class="form_section_title text_center">Some helpful information</h3>
-			<label class="form_label" for="ideal-date">What is your estimated budget?</label>
-			<select name="budget" class="form_select">
-			  <option value="empty">Please select an estimated budget ▾</option>
-			  <option value="500">less than $500</option>
-			  <option value="700">less than $700</option>
-			  <option value="900">less than $900</option>
-			</select>
+			<label class="form_label" for="budget">What is your estimated budget?</label>
+			<input type="text" class="form_input" name="budget">
 
 			<label class="form_label" for="package-choice">Do you have a <a href="/services">service package</a> in mind?</label>
 			<select name="package-choice" class="form_select">
@@ -97,7 +92,7 @@ title: Contact
 			  <option value="full">Full</option>
 			</select>
 
-			<label class="form_label" for="ideal-date">Do you have an ideal due date?</label>
+			<label class="form_label" for="ideal-date">When is your ideal due date?</label>
 			<input class="form_input" id="idealDate" type="date" name="ideal-date">
 
 			<label class="form_label" for="website-reason">What are your main reasons for wanting to build a website?<span class="text_red">*</span></label>
