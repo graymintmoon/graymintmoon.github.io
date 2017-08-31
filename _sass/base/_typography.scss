@@ -1,7 +1,7 @@
 h1, h2, h3, h4 {
   margin: 0 0 0.5em;
   font-weight: inherit;
-  line-height: 1.2;
+  line-height: 1.5;
 }
 
 h1 {
@@ -61,6 +61,10 @@ a {
     transition: color .25s;
     color: $blue;
   }
+}
+
+summary{
+  outline:none;
 }
 
 @include media-query($sm-screen) {

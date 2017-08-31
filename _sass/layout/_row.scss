@@ -49,6 +49,6 @@
 
 	&_trim_bottom {
 		@include row; 
-		padding: $spacing-unit * 2 0 0 0;
+		padding-bottom: 0;
 	}
 }

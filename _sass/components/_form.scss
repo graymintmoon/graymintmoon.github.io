@@ -88,4 +88,24 @@
 			cursor: pointer;
 		}
 	}
+
+	&_select {
+		display: block;
+		width: 100%;
+		border: 1px solid $gray;
+		font-size: .875em;
+		padding: 2px 3px;
+		margin-bottom: $spacing-unit;
+		-webkit-appearance: none;
+		-moz-appearance: none;
+		appearance: none;
+		box-sizing: content-box;
+		padding: 2px 3px;
+		border-radius: 0;
+		background: $white;
+	}
+
+	&_down_triangle {
+		float: right;
+	}
 }

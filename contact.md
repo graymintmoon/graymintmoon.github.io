@@ -7,20 +7,19 @@ title: Contact
 		<div class="container_lg">
 			<h2 class="text_charcoal">We'd love to hear from you!</h2>
 			<h4>Thank you for your interest in working with us. Please fill out and submit the questionnaire so that we can learn more about you, your business, and your overall goals.</h4>
-			<p>Or, you can email us at <a class="text_jungle text_regular" href="mailto:graymintmoon">graymintmoon@gmail.com</a> to get the conversation going!</p>
 		</div>
 	</div>
 	<form action="https://formspree.io/graymintmoon@gmail.com"
 		method="POST">
-		<input class="contact-form" type="hidden" name="_next" value="/">
+		<input class="contact-form" type="hidden" name="_next" value="/success">
 		<fieldset class="form_fieldset">
 			<h3 class="form_section_title text_center">About You</h3>
-			<label class="form_label" for="name">Your name</label>
-			<input class="form_input" type="text" name="name">
+			<label class="form_label" for="name">Your name<span class="text_red">*</span></label>
+			<input class="form_input" type="text" name="name" required>
 			<div class="form_two_columns">
 				<div class="form_column">
-					<label class="form_label" for="email">Your email</label>
-					<input class="form_input" type="email" name="email">
+					<label class="form_label" for="email">Your email<span class="text_red">*</span></label>
+					<input class="form_input" type="email" name="email" required>
 				</div>
 				<div class="form_column">
 					<label class="form_label" for="phone">Your phone number</label>
@@ -30,8 +29,8 @@ title: Contact
 		</fieldset>
 		<fieldset class="form_fieldset">
 			<h3 class="form_section_title text_center">About Your Company</h3>
-			<label class="form_label" for="company-name">Your company name</label>
-			<input class="form_input" type="text" name="company-name">
+			<label class="form_label" for="company-name">Your company name<span class="text_red">*</span></label>
+			<input class="form_input" type="text" name="company-name" required>
 			<div class="form_two_columns">
 				<div class="form_column">
 					<label class="form_label" for="company-email">Your company email</label>
@@ -81,14 +80,29 @@ title: Contact
 		</fieldset>
 		<fieldset class="form_fieldset">
 			<h3 class="form_section_title text_center">Some helpful information</h3>
+			<label class="form_label" for="ideal-date">What is your estimated budget?</label>
+			<select name="budget" class="form_select">
+			  <option value="empty">Please select an option ▾</option>
+			  <option value="500">less than $500</option>
+			  <option value="700">less than $700</option>
+			  <option value="900">less than $900</option>
+			</select>
+
 			<label class="form_label" for="ideal-date">Do you have an ideal due date?</label>
 			<input class="form_input" id="idealDate" type="date" name="ideal-date">
-			<label class="form_label" for="website-reason">What are your main reasons for wanting to build a website?</label>
-			<textarea class="form_textarea" rows="3" type="text" name="website-reason"></textarea>
-			<label class="form_label" for="target-audience">Describe your target audience or potential clients:</label>
-			<textarea class="form_textarea" rows="3" type="text" name="target-audience"></textarea>
-			<label class="form_label" for="products-services">What unique products or services do you offer your audience/clients?</label>
-			<textarea class="form_textarea" rows="3" type="text" name="products-services"></textarea>
+			<label class="form_label" for="website-reason">What are your main reasons for wanting to build a website?<span class="text_red">*</span></label>
+			<textarea class="form_textarea" rows="3" type="text" name="website-reason" required></textarea>
+			<label class="form_label" for="target-audience">Describe your target audience or potential clients:<span class="text_red">*</span></label>
+			<textarea class="form_textarea" rows="3" type="text" name="target-audience" required></textarea>
+			<label class="form_label" for="products-services">What unique products or services do you offer your audience/clients?<span class="text_red">*</span></label>
+			<textarea class="form_textarea" rows="3" type="text" name="products-services" required></textarea>
+			
+			<label class="form_label" for="3 words">List 3 key words that describe your company:</label>
+			<input type="text" class="form_input" name="3 words">
+
+			<label class="form_label" for="competitors">What are your top 3 competitors:</label>
+			<input type="text" class="form_input" name="competitors">
+
 			<label class="form_label" for="extra-info">Is there anything else you would like to tell us?</label>
 			<textarea class="form_textarea" name="extra-info" rows="3"></textarea>
 		</fieldset>

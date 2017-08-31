@@ -16,4 +16,13 @@
 	p {
 		font-family: 'Benton Light', arial, sans-serif;
 	}
+
+	&_base_list {
+		list-style-type: none;
+		padding-left: 0;
+
+		li {
+			font-family: 'Benton Light', arial, sans-serif;
+		}
+	}
 }

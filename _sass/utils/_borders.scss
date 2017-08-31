@@ -1,3 +1,7 @@
 .border {
 	&_bottom_gray {border-bottom: 1px solid $gray};
+	&_bottom_red {border-bottom: 10px solid $red};
+	&_bottom_gold {border-bottom: 10px solid $gold};
+	&_bottom_blue {border-bottom: 10px solid $blue};
+	&_bottom_jungle {border-bottom: 10px solid $jungle};
 }
