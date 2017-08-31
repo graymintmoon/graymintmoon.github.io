@@ -50,8 +50,13 @@
 		width: 100%;
 		border: 1px solid $gray;
 		font-size: .875em;
-		padding: 2px 3px;
+		padding: 5px 5px;
+		background: $white;
 		margin-bottom: $spacing-unit;
+
+		&:focus {
+			border: 1px solid $jungle;
+		}
 	}
 
 	&_textarea {

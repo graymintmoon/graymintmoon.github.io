@@ -25,4 +25,21 @@
 			font-family: 'Benton Light', arial, sans-serif;
 		}
 	}
+
+	&_submit {
+		display: block;
+		background: $blue;
+		margin: 0 auto;
+		border: 1px solid $charcoal;
+		border-radius: 2px;
+		text-align: center;
+		max-width: 10em;
+		color: $dark;
+		padding: $spacing-unit / 4 $spacing-unit;
+		&:hover {
+			background: darken($blue, 10%);
+			color: $white;
+			cursor: pointer;
+		}
+	}
 }

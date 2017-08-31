@@ -6,7 +6,7 @@ title: Services
 	<div class="container_lg">
 		<div class="text_center">
 			<h2 class="text_charcoal">Services</h2>
-			<h4>Starting points to choose from</h4>
+			<h4>The following pre-made packages are simple starting points to choose from. You may also extend any package with <a href="#add-ons">additional services</a>. </h4>
 		</div>
 	</div>
 </div>
@@ -190,9 +190,9 @@ title: Services
 </div>
 <hr class="divider">
 
-<div class="row_sm">
+<div id="add-ons" class="row_sm">
 	<div class="container_lg">
-		<h3 id="add-ons" class="text_center">Additional Services</h3>
+		<h3 class="text_center">Additional Services</h3>
 		<p class="text_center">We are here to help you get your business website into the best place possible. The following items are examples of additional services that we offer to enhance your website. <strong>Note:</strong> these are just <em>some</em> of the additional services we offer. Please <a href="/contact">contact us</a> to see how we can best serve you!</p>
 		<div class="column_half">
 			<div class="column_half_block">
@@ -218,5 +218,9 @@ title: Services
 				</ul>
 			</div>
 		</div>
+		<div class="row"></div>
+			<a class="page_submit" href="/contact">I'm ready to start</a>
+		<div class="row"></div>
+
 	</div>
 </div>

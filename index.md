@@ -10,9 +10,9 @@ title: Home
 		</div>
 	</div>
 </div>
-<div class="row_trim_bottom bg_white">
+<div class="row_sm row_trim_bottom bg_white">
 	<div class="container_lg text_center">
-		<h3>How we can help</h3>
+		<h3>We can help you</h3>
 		<p>At Gray Mint Moon, your goals become our own. We make a personal investment in creating true, human-to-human  connections with our clients. Here's what we can do for you:  </p>
 	</div>
 </div>
@@ -40,6 +40,10 @@ title: Home
 				<p class="text_light">If you need help with figuring out hosting, domain names, launching or maintaining your website - let us take care of that.</p>
 			</div>
 		</div>
+		<div class="container_lg">
+			<p class="text_center">Whether you're just starting, already established, a beginner, or have experience - we are willing to help. Please visit our services page to see how we can get started!</p>
+			<a class="page_submit" href="/services">View our services</a>
+	</div>
 	</div>
 </div>
 <div class="row_sm">

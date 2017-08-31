@@ -82,18 +82,30 @@ title: Contact
 			<h3 class="form_section_title text_center">Some helpful information</h3>
 			<label class="form_label" for="ideal-date">What is your estimated budget?</label>
 			<select name="budget" class="form_select">
-			  <option value="empty">Please select an option ▾</option>
+			  <option value="empty">Please select an estimated budget ▾</option>
 			  <option value="500">less than $500</option>
 			  <option value="700">less than $700</option>
 			  <option value="900">less than $900</option>
 			</select>
 
+			<label class="form_label" for="package-choice">Do you have a <a href="/services">service package</a> in mind?</label>
+			<select name="package-choice" class="form_select">
+			  <option value="empty">Please select a package option ▾</option>
+			  <option value="not-sure">I don't know yet</option>
+			  <option value="quarter">Quarter</option>
+			  <option value="half">Half</option>
+			  <option value="full">Full</option>
+			</select>
+
 			<label class="form_label" for="ideal-date">Do you have an ideal due date?</label>
 			<input class="form_input" id="idealDate" type="date" name="ideal-date">
+
 			<label class="form_label" for="website-reason">What are your main reasons for wanting to build a website?<span class="text_red">*</span></label>
 			<textarea class="form_textarea" rows="3" type="text" name="website-reason" required></textarea>
+
 			<label class="form_label" for="target-audience">Describe your target audience or potential clients:<span class="text_red">*</span></label>
 			<textarea class="form_textarea" rows="3" type="text" name="target-audience" required></textarea>
+
 			<label class="form_label" for="products-services">What unique products or services do you offer your audience/clients?<span class="text_red">*</span></label>
 			<textarea class="form_textarea" rows="3" type="text" name="products-services" required></textarea>
 			
