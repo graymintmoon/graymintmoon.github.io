@@ -6,7 +6,7 @@ title: Services
 	<div class="container_lg">
 		<div class="text_center">
 			<h2 class="text_charcoal">Services</h2>
-			<h4>Ready made packages to choose from</h4>
+			<h4>Starting points to choose from</h4>
 		</div>
 	</div>
 </div>

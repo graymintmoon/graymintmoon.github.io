@@ -4,7 +4,7 @@ title: About
 ---
 <div class="text_center">
 	<h2 class="text_charcoal">About Us</h2>
-	<h4 class="page_subtitle">it all starts with a dream</h4>
+	<h4 class="page_subtitle">It all starts with a dream</h4>
 	<hr class="divider">
 </div>
 
