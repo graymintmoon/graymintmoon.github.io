@@ -28,16 +28,15 @@
 
 	&_submit {
 		display: block;
-		background: $blue;
+		font-family: 'Benton Regular', arial, sans-serif;
+		background: $jungle;
 		margin: 0 auto;
-		border: 1px solid $charcoal;
-		border-radius: 2px;
 		text-align: center;
 		max-width: 10em;
-		color: $dark;
+		color: $white;
 		padding: $spacing-unit / 4 $spacing-unit;
 		&:hover {
-			background: darken($blue, 10%);
+			background: darken($jungle, 10%);
 			color: $white;
 			cursor: pointer;
 		}
