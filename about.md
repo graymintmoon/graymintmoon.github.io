@@ -16,7 +16,7 @@ title: About
 
 <p>The summer of 2017 proved to be a major season of personal and professional growth for the both of us. Khristine's intuitions led her to follow her calling to extend her passions globally. So she created a heart-centered online business as a Minimalism and Feng Shui consultant for mothers around the world.</p>
 
-<p>Around the same time, I also wanted to pursue an ongoing dream - to become a freelance web developer. For a long time I had been drawn to freelancing so I could work on projects and subjects that mean most to me. I especially wanted to leverage my expertise in front-end development with a specific client niche.</p>
+<p>Around the same time, I felt compelled to pursue an ongoing dream as well - to become a freelance web developer. For a long time I had been drawn to freelancing so I could work on projects and subjects that mean most to me. I especially wanted to leverage my expertise in front-end development with a specific client niche.</p>
 
 <p>Most importantly, having my own development and design business meant having more creative freedom and flexibility to enjoy a thriving work-life balance.</p>
 
@@ -32,7 +32,7 @@ title: About
 
 <h5 class="page_section_title text_center">Gray Mint Moon Ahead</h5>
 
-<p>We foresee our futures with fruitful online businesses, maintaining lots of time together as a close-knit family, extending our talents and gifts for the greater good, doing what we absolutely love, traveling all over this beautiful world, and working alongside kindred spirits like you! </p>
+<p>We foresee our futures with fruitful online businesses, expanding our services to serve international clients, maintaining lots of time together as a close-knit family, extending our talents and gifts for the greater good, doing what we absolutely love, traveling all over this beautiful world, and continuing to work alongside kindred spirits like you!</p>
 
 <p>Thank you for visiting our website and reading our story.</p>
 
