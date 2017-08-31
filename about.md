@@ -10,9 +10,9 @@ title: About
 
 <h5 class="page_section_title text_center">Before Gray Mint Moon</h5>
 
-<p>I like to think of Khristine and I as a spiritual, holistic and alternative-minded couple. We promote holistic health, natural, and organic living, and it's something we hope to pass down to our boys.</p>
+<p>I like to think of Khristine and I as a spiritual, holistic and alternative-minded couple. We promote holistic health, natural, and organic living, and this conscious lifestyle is something we hope to pass down to our boys.</p>
 
-<p>In addition, we're also world-schoolers - we enjoy traveling the world as part of our children's education. We continue to strive for personal development and we realize that our most important responsibility is to deepen ourselves spiritually.</p>
+<p>In addition, we're also worldschoolers - we enjoy traveling the world as part of our children's education. We continue to strive for personal development and we realize that our most important responsibility is to deepen ourselves spiritually.</p>
 
 <p>The summer of 2017 proved to be a major season of personal and professional growth for the both of us. Khristine's intuitions led her to follow her calling to extend her passions globally. So she created a heart-centered online business as a Minimalism and Feng Shui consultant for mothers around the world.</p>
 
