@@ -21,4 +21,5 @@
 	&_small{font-size: .875em}
 	&_trim_top {margin-top: 0;}
 	&_trim_bottom {margin-bottom: 0;}
+	&_pad_bottom{padding-bottom: $spacing-unit / 2;}
 }

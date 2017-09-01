@@ -26,24 +26,24 @@ title: Home
 			</div>
 			<div class="column_fourth_block">
 				<img class="img_full" src="{{site.url}}/assets/code_colors.png" alt="">
-				<h4 class="text_center text_regular">We help you build</h4>
-				<p class="text_light">We are happy to offer years of professional experience, skills, and prior knowledge so that your business website is successful.</p>
+				<h4 class="text_center text_regular">Understanding the web</h4>
+				<p class="text_light">We offer years of professional web development experience along with an extensive understanding for front-end code and design.</p>
 			</div>
 			<div class="column_fourth_block">
 				<img class="img_full" src="{{site.url}}/assets/devices_colors.png" alt="">
 				<h4 class="text_center text_regular">Increase visibility</h4>
-				<p class="text_light">Your target audience needs access to what you offer! You can count on having increased visibility that is available to your business audience.</p>
+				<p class="text_light">Your target audience needs access to your offerings! You can count on having increased visibility that is available to your business audience.</p>
 			</div>
 			<div class="column_fourth_block">
 				<img class="img_full" src="{{site.url}}/assets/launch_colors.png" alt="">
 				<h4 class="text_center text_regular">Ready for liftoff</h4>
-				<p class="text_light">If you need help with figuring out hosting, domain names, launching or maintaining your website - let us take care of that.</p>
+				<p class="text_light">Launching a website can be a lot of work, that's why we're here. We can guide you through each step until you're ready to go live.</p>
 			</div>
 		</div>
 		<div class="container_lg">
 			<p class="text_center">Whether you're just starting, already established, a beginner, or have experience - we are willing to help. Please visit our services page to see how we can get started!</p>
 			<a class="page_submit" href="/services">View our services</a>
-	</div>
+		</div>
 	</div>
 </div>
 <div class="row_sm">

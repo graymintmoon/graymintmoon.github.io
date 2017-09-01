@@ -13,16 +13,16 @@
 		margin: 0;
 	}
 
-	p {
-		font-family: 'Benton Light', arial, sans-serif;
-	}
-
 	&_base_list {
 		list-style-type: none;
 		padding-left: 0;
+		column-count: 2;
+
+		@include media-query($md-screen) {column-count: 1}
 
 		li {
 			font-family: 'Benton Light', arial, sans-serif;
+	    padding-bottom: $spacing-unit / 8;
 		}
 	}
 
