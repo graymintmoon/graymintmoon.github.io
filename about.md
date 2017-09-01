@@ -14,7 +14,7 @@ title: About
 
 <p>In addition, we're also worldschoolers - we enjoy traveling the world as part of our children's education. We continue to strive for personal development and we realize that our most important responsibility is to deepen ourselves spiritually.</p>
 
-<p>The summer of 2017 proved to be a major season of personal and professional growth for the both of us. Khristine's intuitions led her to follow her calling to extend her passions globally. So she created a heart-centered online business as a Minimalism and Feng Shui consultant for mothers around the world.</p>
+<p>The summer of 2017 proved to be a major season of personal and professional growth for the both of us. Khristine's intuitions led her to follow her calling to extend her passions globally. So she created a heart-centered online business as a Minimalism and Feng Shui consultant for Mothers around the world.</p>
 
 <p>Around the same time, I felt compelled to pursue an ongoing dream as well - to become a freelance web developer. For a long time I had been drawn to freelancing so I could work on projects and subjects that mean most to me. I especially wanted to leverage my expertise in front-end development with a specific client niche.</p>
 
