@@ -7,13 +7,18 @@
     background-size: cover;
     min-height: 35em;
     text-align: center;
+    background-attachment: scroll;
+
+    @include media-query($lg-screen) {
+      background-attachment: scroll;
+    }
 
     @include media-query($md-screen) {
       background-position-y: 1px;
     }
 
-    @media only screen  and (min-width : 1441px) {
-      min-height: 43em;
+    @media only screen and (min-width : 1441px) {
+      min-height: 42em;
       background-position-y: -6em;
     }
   }
