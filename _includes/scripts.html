@@ -3,13 +3,23 @@ $(document).ready(function(){
 	$('#scrollUp').click(function(){
 		$("html, body").animate({ scrollTop: 0 }, "slow");
 	});
+
 	$(document).scroll(function() {
 	  var y = $(this).scrollTop();
-	  if (y > 200) {
+	  if (y > 600) {
 	    $('#scrollUp').fadeIn();
 	  } else {
 	    $('#scrollUp').fadeOut();
 	  }
 	});
+
+	$('.header_menu_toggle').click(function(){
+		if( $('.site_nav').css('display') === 'flex'){
+			$('.site_nav').fadeOut();
+		} else {
+			$('.site_nav').css('display', 'flex').hide().fadeIn();
+		}
+	});
+
 });
 </script>

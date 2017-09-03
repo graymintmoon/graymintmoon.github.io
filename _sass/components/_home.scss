@@ -1,28 +1,4 @@
 .home {
-  &_bg{
-    background: url(/assets/surface_white_color_noise.png) no-repeat center -5em fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    min-height: 35em;
-    text-align: center;
-    background-attachment: scroll;
-
-    @include media-query($lg-screen) {
-      background-attachment: scroll;
-    }
-
-    @include media-query($md-screen) {
-      background-position-y: 1px;
-    }
-
-    @media only screen and (min-width : 1441px) {
-      min-height: 42em;
-      background-position-y: -6em;
-    }
-  }
-
   &_scroll_up {
     display: none;
     position: fixed;
@@ -31,6 +7,36 @@
 
     img {
       width: 2.5em;
+    }
+  }
+
+  &_splash{
+    min-height: 100vh;
+    background: $charcoal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    & .container{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    &_img{
+      img {
+        max-width: 44em;
+        width: 100%;
+        margin: 0;
+      }
+    }
+
+    &_title{
+      color: $gray;
+      font-size: 15vw;
+      line-height: 1;
+      text-transform: uppercase;
+      font-family: 'Benton Light', arial, sans-serif;
     }
   }
 }

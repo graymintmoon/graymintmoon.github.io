@@ -5,13 +5,17 @@
 		margin: 0 auto;
 
 		@include media-query($xl-screen) {
-			width: 60%
+			width: 85%
 		}
 
 		@include media-query($sm-screen) {
-			width: 55%;
+			width: 100%;
 			display: block;
 			margin: 0 auto;
 		}
+	}
+
+	&_bottom_space {
+		padding-bottom: $spacing-unit / 2;
 	}
 }
