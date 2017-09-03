@@ -15,14 +15,14 @@
 
 	&_base_list {
 		list-style-type: none;
-		padding-left: 0;
+		padding: $spacing-unit / 2 0;
 		column-count: 2;
 
 		@include media-query($md-screen) {column-count: 1}
 
 		li {
-			font-family: 'Benton Light', arial, sans-serif;
-	    padding-bottom: $spacing-unit / 8;
+			font-family: 'Benton Regular', arial, sans-serif;
+	    padding-bottom: $spacing-unit / 4;
 		}
 	}
 
@@ -40,6 +40,11 @@
 			color: $white;
 			cursor: pointer;
 		}
+	}
+
+	&_list_icon{
+		color: darken($blue, 15%);
+		padding-right: $spacing-unit / 4;
 	}
 
 	&_blockquote {
