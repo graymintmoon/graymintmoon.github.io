@@ -10,6 +10,12 @@ title: About
 
 <h5 class="page_section_title text_center">Before Gray Mint Moon</h5>
 
+<p>A few years ago, Khris and I made the decision to uproot our family from the sunny, coastal city of San Diego, California, to move to Austin, Texas. The risk was part of a long-term plan for a better life, which involved a drastic career change for myself.</p>
+
+<p>At the time, I was a Site Supervisor for a before-and-afterschool program at the local YMCA. It was a rewearding position, but also one that was unsustainable for our family's future - especially since we had two growing boys.</p>
+
+<p>In my heart, I knew I wanted to work in technology; it's been an interest of mine since I was a child.</p>
+
 <p>I like to think of Khristine and I as a spiritual, holistic and alternative-minded couple. We promote holistic health, natural, and organic living, and this conscious lifestyle is something we hope to pass down to our boys.</p>
 
 <p>In addition, we're also worldschoolers - we enjoy traveling the world as part of our children's education. We continue to strive for personal development and we realize that our most important responsibility is to deepen ourselves spiritually.</p>
