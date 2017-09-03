@@ -3,16 +3,31 @@ layout: page
 title: About
 ---
 <div class="text_center">
-	<h2 class="text_charcoal">Following Our Calling</h2>
-	<h4 class="page_subtitle">The creation of Gray Mint Moon</h4>
+	<h2 class="text_charcoal">About Us</h2>
+	<h4 class="page_subtitle">Following Our Calling</h4>
 	<hr class="divider">
 </div>
 
 <h5 class="page_section_title text_center">Before Gray Mint Moon</h5>
 
+<p>Since becoming a web developer, I've had the privelege of working on an extensive portfolio of high-profile clients and global enterprise web applications.</p>
+
+<p>In my first role as an Associate Web Developer, I built websites, email campaigns, event donation forms, and customized features for national, non-profit organization websites. I've been able to serve major clients such as the Boston Children's Hospital, the Moody Foundation, and Freestore Foodbank.</p>
+
+<p>During my years at IBM, I worked as a Software Front-End Developer and helped to create the Whitewater Tools platform - an internal web application that allowed IBM teams to modernize their toolsets with products like GitHub, Slack, Mural, and InVision.</p>
+
+<img class="img_full" src="{{site.url}}/assets/ibm_design.jpg" alt="photo of acceptance package at IBM">
+
+<p>Today, I am a Senior Web Developer, and have returned to working with non-profit organizations. Currently, I'm the lead developer on the new Parkinson's Foundation website.</p>
+
+<p>Having the opportunity to apply my experience towards meaningful client work has revealed a deeper purpose that I've been wanting to explore. I now want to devote my skills towards helping globally and socially conscious entrepreneurs establish their own web presence.</p>
+
+<h5 class="page_section_title text_center">Creating Gray Mint Moon</h5>
 <p>I like to think of Khristine and I as a spiritual, holistic and alternative-minded couple. We promote holistic health, natural, and organic living, and this conscious lifestyle is something we hope to pass down to our boys.</p>
 
 <p>In addition, we're also worldschoolers - we enjoy traveling the world as part of our children's education. We continue to strive for personal development and we realize that our most important responsibility is to deepen ourselves spiritually.</p>
+
+<img class="img_full" src="{{site.url}}/assets/bridge.jpg" alt="photo of Khris and boys at the beach">
 
 <p>The summer of 2017 proved to be a major season of personal and professional growth for the both of us. Khristine's intuitions led her to follow her calling to extend her passions globally. So she created a heart-centered online business as a Minimalism and Feng Shui consultant for Mothers around the world.</p>
 
@@ -21,6 +36,8 @@ title: About
 <p>Most importantly, having my own development and design business meant having more creative freedom and flexibility to enjoy a thriving work-life balance.</p>
 
 <p>Appropriately, we discovered the opportunity to intersect both our personal callings. I decided then, it was only fitting I develop websites with a focus on helping like-minded clients on the same path as our family: holistic and alternative entrepreneurs ready to launch their own company websites. </p>
+
+<img class="img_full" src="{{site.url}}/assets/eclipse.jpg" alt="photo of by Kevin Crosby">
 
 <p>So on the fateful day of the total solar eclipse of 2017, when the Earth, Moon, and Sun wondrously aligned, we commemorated the rare celestial event by formally branding our businesses with lunar references - Lotus Light Moon and Gray Mint Moon.</p>
 
@@ -39,9 +56,9 @@ title: About
 <a href="/contact">Let's talk</a> about how Gray Mint Moon can help you pursue your own dreams and launch your holistic business website. 
 
 
-<div class="row_sm">
-	<div class="text_regular text_small">
-		<em>“And, when you want something, all the universe conspires in helping you to achieve it.”</em><br>
-		- Paulo Coelho, The Alchemist
+<div class="row_sm page_blockquote">
+	<div class="text_medium">
+		<em>“And, when you want something, all the universe conspires in helping you to achieve it.”</em>
+		<p class="text_right text_medium">- Paulo Coelho, The Alchemist</p>
 	</div>
 </div>

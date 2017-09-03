@@ -41,4 +41,11 @@
 			cursor: pointer;
 		}
 	}
+
+	&_blockquote {
+		padding: $spacing-unit / 2 0;
+		border-top: 2px solid $charcoal;
+		border-bottom: 2px solid $charcoal;
+		margin-top: $spacing-unit * 2;
+	}
 }
