@@ -5,7 +5,7 @@
 	position: relative;
 
 	&_menu_toggle{
-		color: $dark;
+		color: $jungle;
 		padding: $spacing-unit / 8;
 		display: inline-block;
 		position: fixed;
@@ -14,6 +14,25 @@
 		box-sizing: border-box;
 		top: 10px;
 		right: 12px;
+		font-size: 1.5em;
+
+		&_close{
+			color: $jungle;
+			padding: $spacing-unit / 8;
+			display: inline-block;
+			position: fixed;
+			z-index: 2;
+			border-radius: 4px;
+			box-sizing: border-box;
+			top: -9px;
+			right: 6px;
+			font-size: 2.5em;
+			display:none;
+
+			&:hover{
+				cursor:pointer;
+			}
+		}
 
 		&:hover{
 			color:$jungle;

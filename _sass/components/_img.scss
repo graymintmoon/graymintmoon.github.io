@@ -4,10 +4,6 @@
 		display: block;
 		margin: 0 auto;
 
-		@include media-query($xl-screen) {
-			width: 85%
-		}
-
 		@include media-query($sm-screen) {
 			width: 100%;
 			display: block;

@@ -17,7 +17,17 @@ $(document).ready(function(){
 		if( $('.site_nav').css('display') === 'flex'){
 			$('.site_nav').fadeOut();
 		} else {
+			$('.header_menu_toggle').fadeToggle();
+			$('.header_menu_toggle_close').fadeToggle();
 			$('.site_nav').css('display', 'flex').hide().fadeIn();
+		}
+	});
+
+	$('.header_menu_toggle_close').click(function(){
+		if( $('.site_nav').css('display') === 'flex'){
+			$('.site_nav').fadeOut();
+			$('.header_menu_toggle').fadeIn();
+			$('.header_menu_toggle_close').fadeOut();
 		}
 	});
 

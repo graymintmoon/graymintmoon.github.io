@@ -12,10 +12,9 @@ $spacing-unit: 2em;
 $dark: #333D44;
 $gray: #A0BBC3;
 $jungle: #6BCFB8;
-$mint: #96EFE3;
+$mint: #A4F1E7;
 $white: #FFFFFF;
 $lightgray: #EEF3F3;
-
 $light: #FEF2DA;
 $light-green: #CCDAB9;
 $blue: #6AD3EF;
@@ -24,7 +23,7 @@ $gold: #FFE963;
 $red: #ff7d7d;
 
 $black: #FDFDFD;
-$light-gray: lighten($charcoal, 35%);
+$lightmint: lighten(#A4F1E7, 15%);
 
 // Width of the content area
 $xxl-screen: 76em;
