@@ -16,8 +16,6 @@ title: About
 
 <p>During my years at IBM, I worked as a Software Front-End Developer and helped to create the Whitewater Tools platform - an internal web application that allowed IBM teams to modernize their toolsets with products like GitHub, Slack, Mural, and InVision.</p>
 
-<img class="img_full" src="{{site.url}}/assets/ibm_design.jpg" alt="photo of acceptance package at IBM">
-
 <p>Today, I am a Senior Web Developer, and have returned to working with non-profit organizations. Currently, I'm the lead developer on the new Parkinson's Foundation website.</p>
 
 <p>Having the opportunity to apply my experience towards meaningful client work has revealed a deeper purpose that I've been wanting to explore. I now want to devote my skills towards helping globally and socially conscious entrepreneurs establish their own web presence.</p>
@@ -27,8 +25,6 @@ title: About
 
 <p>In addition, we're also worldschoolers - we enjoy traveling the world as part of our children's education. We continue to strive for personal development and we realize that our most important responsibility is to deepen ourselves spiritually.</p>
 
-<img class="img_full" src="{{site.url}}/assets/bridge.jpg" alt="photo of Khris and boys at the beach">
-
 <p>The summer of 2017 proved to be a major season of personal and professional growth for the both of us. Khristine's intuitions led her to follow her calling to extend her passions globally. So she created a heart-centered online business as a Minimalism and Feng Shui consultant for Mothers around the world.</p>
 
 <p>Around the same time, I felt compelled to pursue an ongoing dream as well - to become a freelance web developer. For a long time I had been drawn to freelancing so I could work on projects and subjects that mean most to me. I especially wanted to leverage my expertise in front-end development with a specific client niche.</p>
@@ -36,8 +32,6 @@ title: About
 <p>Most importantly, having my own development and design business meant having more creative freedom and flexibility to enjoy a thriving work-life balance.</p>
 
 <p>Appropriately, we discovered the opportunity to intersect both our personal callings. I decided then, it was only fitting I develop websites with a focus on helping like-minded clients on the same path as our family: holistic and alternative entrepreneurs ready to launch their own company websites. </p>
-
-<img class="img_full" src="{{site.url}}/assets/eclipse.jpg" alt="photo of by Kevin Crosby">
 
 <p>So on the fateful day of the total solar eclipse of 2017, when the Earth, Moon, and Sun wondrously aligned, we commemorated the rare celestial event by formally branding our businesses with lunar references - Lotus Light Moon and Gray Mint Moon.</p>
 
