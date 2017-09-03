@@ -2,53 +2,32 @@
 layout: default
 title: Home
 ---
-<div class="home_bg">
-	<div class="row_lg">
-		<div class="container_lg text_center">
-			<h1 class="text_charcoal">Let's launch something!</h1>
-			<p>{{site.description}}</p>
+<div class="home_splash">
+	<div class="container container_xl">
+		<div class="home_splash_img">
+			<img class="img_full" src="{{site.url}}/assets/wordmark.png" alt="gray mint moon wordmark">
 		</div>
-	</div>
-</div>
-<div class="row_sm row_trim_bottom bg_white">
-	<div class="container_lg text_center">
-		<h3>We can help you</h3>
-		<p>At Gray Mint Moon, your goals become our own. We make a personal investment in creating true, human-to-human  connections with our clients. Here's what we can do for you:  </p>
-	</div>
-</div>
-<div class="row_sm bg_white">
-	<div class="container_xxl text_center">
-		<div class="column_fourths">
-			<div class="column_fourth_block">
-				<img class="img_full" src="{{site.url}}/assets/idea_colors.png" alt="">
-				<h4 class="text_center text_regular">You have an idea</h4>
-				<p class="text_light">Maybe you have an idea, or you're just starting up your own business - we are here to help you establish a healthy web presence.</p>
-			</div>
-			<div class="column_fourth_block">
-				<img class="img_full" src="{{site.url}}/assets/code_colors.png" alt="">
-				<h4 class="text_center text_regular">Understanding the web</h4>
-				<p class="text_light">We offer years of professional web development experience along with an extensive understanding for front-end code and design.</p>
-			</div>
-			<div class="column_fourth_block">
-				<img class="img_full" src="{{site.url}}/assets/devices_colors.png" alt="">
-				<h4 class="text_center text_regular">Increase visibility</h4>
-				<p class="text_light">Your target audience needs access to your offerings! You can count on having increased visibility that is available to your business audience.</p>
-			</div>
-			<div class="column_fourth_block">
-				<img class="img_full" src="{{site.url}}/assets/launch_colors.png" alt="">
-				<h4 class="text_center text_regular">Ready for liftoff</h4>
-				<p class="text_light">Launching a website can be a lot of work, that's why we're here. We can guide you through each step until you're ready to go live.</p>
-			</div>
-		</div>
-		<div class="container_lg">
-			<p class="text_center">Whether you're just starting, already established, a beginner, or have experience - we are willing to help. Please visit our services page to see how we can get started!</p>
-			<a class="page_submit" href="/services">View our services</a>
+		<div>
+			<p class="text_white">web development<br><strong><small>ux • design • strategy</small></strong><br></p>
 		</div>
 	</div>
 </div>
 <div class="row_sm">
+	<div class="container_lg text_center">
+		<h3>Our Mission</h3>
+		<p>We aim to help others pursue their own calling towards making a positive impact around the world by leveraging our natural gifts and activating our passions.</p>
+	</div>
+</div>
+{% include offerings.html %}
+<div class="row_sm bg_lightgray">
+	<div class="container_lg">
+		<p class="text_center">Whether you're just starting, already established, a beginner, or have experience - we are willing to help. Please visit our services page to see how we can get started!</p>
+		<a class="page_submit" href="/services">View our services</a>
+	</div>
+</div>
+<div class="row_sm">
 	<div class="container_xl">
-		<div class="row">
+		<div class="row_xs">
 			<div class="text_center">
 				<h2>Who we are</h2>
 			</div>
@@ -67,6 +46,5 @@ title: Home
 				<p class="text_light">Khristine is an instinctive nurturer. She adores her husband and two sons, loves laughing with her family on the living room floor, and relishes going on family dates to discover new destinations. She enjoys traveling, learning languages, and practicing Kripalu yoga and loving-kindness meditation.</p>
 			</div>
 		</div>
-		<p></p>
 	</div>
 </div>

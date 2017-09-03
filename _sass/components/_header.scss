@@ -1,73 +1,41 @@
 .header {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	
-	@include media-query($lg-screen) {
-		flex-direction: column
-	}
+	background: $charcoal;
+	text-align: right;
+	padding: 0 $spacing-unit / 2;
+	position: relative;
 
-	&_logo {
-		max-width: $spacing-unit; 
-		padding-right: $spacing-unit / 4;
-		@include media-query($lg-screen) {
-			display: none;
-		}
-	}
-
-	&_logo_mobile {
-		display: none;
-		@include media-query($lg-screen) {
-			display: block;
-			padding-top: $spacing-unit / 2;
-			max-width: $spacing-unit * 4;
-		}
-	}
-
-	&_brand {
-		@include media-query($lg-screen) {
-			margin-bottom: $spacing-unit / 1.25;
-		}
-	}
-	
-	&_homelink{
-		display: flex;
-		align-items: center;
-		flex-direction: row;
-		text-decoration: none;
-		color: darken($gray, 25%);
-		font-weight: normal;
-
-		@include media-query($lg-screen) {
-			flex-direction: column;
-		}
-	}
-
-	&_nav {
-		list-style-type: none;
-		padding: 0 $spacing-unit / 2;
-	}
-
-	&_nav_item {
+	&_menu_toggle{
+		color: $jungle;
+		padding: $spacing-unit / 8;
 		display: inline-block;
-		padding: $spacing-unit / 2;
-		transition: color 1s, font-family 1s;
+		position: fixed;
+		z-index: 2;
+		border-radius: 4px;
+		box-sizing: border-box;
+		top: 10px;
+		right: 12px;
+		font-size: 1.5em;
 
-		&:hover {
-			transition: color 1s, font-family 1s;
-			font-family: 'Benton Regular';
-			color: $blue;
-			border-bottom: 1px solid $blue;
-			margin-bottom: -1px;
+		&_close{
+			color: $jungle;
+			padding: $spacing-unit / 8;
+			display: inline-block;
+			position: fixed;
+			z-index: 2;
+			border-radius: 4px;
+			box-sizing: border-box;
+			top: -9px;
+			right: 6px;
+			font-size: 2.5em;
+			display:none;
+
+			&:hover{
+				cursor:pointer;
+			}
 		}
 
-		@include media-query($md-screen) {
-			padding: $spacing-unit / 4 $spacing-unit / 2;
-		}
-
-		@include media-query($sm-screen) {
-			padding: 0 $spacing-unit / 3;
-			font-size: .875em;
+		&:hover{
+			cursor:pointer;
 		}
 	}
 }

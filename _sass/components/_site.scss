@@ -1,0 +1,33 @@
+.site {
+	&_nav{
+		background-color: $white;
+		justify-content: center;
+		padding-top: $spacing-unit * 2;
+		z-index: 1;
+		min-height: 100vh;
+		position: fixed;
+		width: 100%;
+		background: $charcoal;
+		display: none;
+	}
+
+	&_nav_list {
+		list-style-type: none;
+		padding: 1em;
+		width: 100%;
+		box-sizing: border-box;
+		text-align: center;
+	}
+
+	&_nav_list_item {
+		width: 100%;
+		display: block;
+		font-size: 2.5em;
+		margin-bottom: $spacing-unit / 2;
+		text-transform: uppercase;
+		color: $white;
+		&:hover {
+			color: $jungle;
+		}
+	}
+}

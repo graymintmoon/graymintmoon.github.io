@@ -1,5 +1,6 @@
 .border {
-	&_bottom_gray {border-bottom: 1px solid $gray};
+	&_bottom_gray {border-bottom: 10px solid $gray};
+	&_bottom_dark {border-bottom: 10px solid $dark};
 	&_bottom_red {border-bottom: 10px solid $red};
 	&_bottom_gold {border-bottom: 10px solid $gold};
 	&_bottom_blue {border-bottom: 10px solid $blue};
