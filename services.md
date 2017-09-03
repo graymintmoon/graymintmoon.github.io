@@ -12,8 +12,8 @@ title: Services
 				Wordpress Development
 			</li>
 			<li>
-				<i class="fa fa-laptop page_list_icon" aria-hidden="true"></i>
-				Responsive Website Development
+				<i class="fa fa-square page_list_icon" aria-hidden="true"></i>
+				Squarespace Customization
 			</li>
 			<li>
 				<i class="fa fa-file-text-o page_list_icon" aria-hidden="true"></i>
@@ -24,7 +24,7 @@ title: Services
 				Immediate Website Fixes or Updating
 			</li>
 			<li>
-				<i class="fa fa-wordpress page_list_icon" aria-hidden="true"></i>			
+				<i class="fa fa-wordpress page_list_icon" aria-hidden="true"></i>
 				Wordpress Theme Customization
 			</li>
 			<li>
@@ -53,7 +53,7 @@ title: Services
 			</li>
 			<li>
 				<i class="fa fa-google page_list_icon" aria-hidden="true"></i>
-				Google Analytics 
+				Google Analytics
 			</li>
 			<li>
 				<i class="fa fa-th-large page_list_icon" aria-hidden="true"></i>
@@ -74,7 +74,7 @@ title: Services
 			<li>
 				<i class="fa fa-paint-brush page_list_icon" aria-hidden="true"></i>
 				Supplemental Design Elements
-			</li>			
+			</li>
 			<li>
 				<i class="fa fa-ellipsis-h page_list_icon" aria-hidden="true"></i>
 				and more...
@@ -82,20 +82,9 @@ title: Services
 		</ul>
 		<div class="row_xs">
 			<div class="container_lg text_center text_small">
-				<p><span class="text_red">*</span> Because every client project is unique, prices will vary depending on development and design services  needed. Rest assured that we do our best to remain affordable - our main priority is to be collaborative as we get your business website ready for the world.</p>
+				<p><span class="text_red">*</span> Because every client project is unique, prices will vary depending on the combination of development and design services needed. Rest assured that we do our best to remain affordable - our main priorities are to work within your budget and to be collaborative as we get your business website ready for the world.</p>
 			</div>
 		</div>
 		<a class="page_submit" href="/contact">I'm ready to start</a>
-		<div class="row_xs">
-<!-- 			<h4 class="text_center text_regular">Design</h4>
-			<ul class="page_base_list text_center">
-				<li>Brand Style Guide</li>
-				<li>Page Layouts</li>
-				<li>Basic Logo Design</li>
-				<li>Custom Icons</li>
-				<li>Visual graphics</li>
-				<li>and more...</li>
-			</ul> -->
-		</div>
 	</div>
 </div>
