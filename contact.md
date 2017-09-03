@@ -83,15 +83,6 @@ title: Contact
 			<label class="form_label" for="budget">What is your estimated budget?</label>
 			<input type="text" class="form_input" name="budget">
 
-			<label class="form_label" for="package-choice">Do you have a <a href="/services">service package</a> in mind?</label>
-			<select name="package-choice" class="form_select">
-			  <option value="empty">Please select a package option ▾</option>
-			  <option value="not-sure">I don't know yet</option>
-			  <option value="quarter">Quarter</option>
-			  <option value="half">Half</option>
-			  <option value="full">Full</option>
-			</select>
-
 			<label class="form_label" for="ideal-date">When is your ideal due date?</label>
 			<input class="form_input" id="idealDate" type="date" name="ideal-date">
 
@@ -110,7 +101,7 @@ title: Contact
 			<label class="form_label" for="3 words">List 3 key words that describe your company:</label>
 			<input type="text" class="form_input" name="3 words">
 
-			<label class="form_label" for="competitors">What are your top 3 competitors:</label>
+			<label class="form_label" for="competitors">Who are your top 3 competitors:</label>
 			<input type="text" class="form_input" name="competitors">
 
 			<label class="form_label" for="extra-info">Is there anything else you would like to tell us?</label>
