@@ -19,15 +19,15 @@ $(document).ready(function(){
 		} else {
 			$('.header_menu_toggle').fadeToggle();
 			$('.header_menu_toggle_close').fadeToggle();
-			$('.site_nav').css('display', 'flex').hide().fadeIn();
+			$('.site_nav').css('display', 'flex').hide().slideToggle();
 		}
 	});
 
 	$('.header_menu_toggle_close').click(function(){
 		if( $('.site_nav').css('display') === 'flex'){
-			$('.site_nav').fadeOut();
-			$('.header_menu_toggle').fadeIn();
-			$('.header_menu_toggle_close').fadeOut();
+			$('.site_nav').slideUp();
+			$('.header_menu_toggle').slideDown();
+			$('.header_menu_toggle_close').slideUp();
 		}
 	});
 
