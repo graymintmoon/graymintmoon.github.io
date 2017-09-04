@@ -34,17 +34,13 @@
       line-height: 1.2;
 
       @include media-query($sm-screen) {
-        font-size: 4em;
+        font-size: 5em;
       }
     }
 
     h3 {
       margin-top: $spacing-unit;
       font-size: 1em;
-
-      @include media-query($sm-screen) {
-        margin-left: -18px;
-      }
     }
 
     & .container{
@@ -52,9 +48,6 @@
       justify-content: space-between;
       align-items: center;
       flex-direction: column;
-
-      @include media-query($md-screen) {
-      }
     }
 
     &_img{
@@ -67,20 +60,13 @@
 
     &_title{
       &_first {
-        letter-spacing: 27px;
         color: $gray;
       }
       &_second {
         color: $mint;
-        letter-spacing: 30px;
       }
       &_third {
         color: $white;
-        letter-spacing: 12px;
-
-        @include media-query($sm-screen) {
-          letter-spacing: 18px;
-        }
       }
     }
   }

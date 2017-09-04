@@ -4,7 +4,7 @@ title: Home
 ---
 <div class="home_splash text_center">
 	<div class="container container_xl">
-		<h1 class="text_light">
+		<h1 class="text_light site_title">
 			<span class="home_splash_title_first">GRAY</span><br>
 			<span class="home_splash_title_second">MINT</span><br>
 			<span class="home_splash_title_third">MOON</span>
