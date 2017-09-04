@@ -27,6 +27,14 @@
     justify-content: center;
     align-items: center;
 
+    @include media-query($sm-screen) {
+      background: url(/assets/lunar_title_mobile.png) no-repeat center center fixed; 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
+
     h1 {
       font-size: 6em;
       display: block;
