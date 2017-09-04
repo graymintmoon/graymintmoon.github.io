@@ -1,33 +1,39 @@
 .site {
 	&_nav{
-		background-color: $white;
-		justify-content: center;
-		padding-top: $spacing-unit * 2;
 		z-index: 1;
-		min-height: 100vh;
 		position: fixed;
 		width: 100%;
 		background: $charcoal;
 		display: none;
+		border-bottom: 5px solid $jungle;
 	}
 
 	&_nav_list {
 		list-style-type: none;
-		padding: 1em;
+		padding: 0 $spacing-unit * 1.5;
 		width: 100%;
 		box-sizing: border-box;
-		text-align: center;
+		text-align: right;
+
+		@include media-query($md-screen) {
+			padding: $spacing-unit * 1.5 0 0 0;
+		}
 	}
 
 	&_nav_list_item {
-		width: 100%;
-		display: block;
-		font-size: 2.5em;
-		margin-bottom: $spacing-unit / 2;
+		display: inline-block;
 		text-transform: uppercase;
+		padding-right: $spacing-unit / 2;
 		color: $white;
 		&:hover {
 			color: $jungle;
+			text-decoration: underline;
+		}
+
+		@include media-query($md-screen) {
+			display: block;
+			padding-bottom: $spacing-unit / 2;
+			padding-right: $spacing-unit / 4;
 		}
 	}
 }

@@ -87,7 +87,6 @@
 		}
 	}
 
-
 	&_thirds {
 		@include column_flex;
 	}
@@ -100,6 +99,11 @@
 		@include media-query($md-screen) {
 			width: 100%;
 		}
+	}
+
+	&_fifth {
+		@include column_flex;
+		padding-bottom: $spacing-unit;
 	}
 
 }
