@@ -10,6 +10,10 @@
     }
   }
 
+  &_mission{
+    border-bottom: 1px dotted $gray;
+  }
+
   &_splash{
     min-height: 100vh;
     background: url(/assets/lunar_title_bg.png) no-repeat center center fixed; 

@@ -13,9 +13,10 @@ title: Home
 		for holistic entrepreneurs</h3>
 	</div>
 </div>
-<div class="row_sm">
+<div class="row_sm home_mission">
 	<div class="container_lg text_center">
 		<h3>Our Mission</h3>
+		<hr class="divider_blue">
 		<p>{{site.mission}}</p>
 	</div>
 </div>

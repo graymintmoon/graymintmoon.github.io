@@ -16,4 +16,9 @@
 		border-top: 2px solid $blue;
 	}
 
+  &_mint{
+    @include divider;
+    border-top: 2px solid $mint;
+  }
+
 }
