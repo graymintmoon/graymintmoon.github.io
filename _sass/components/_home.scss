@@ -37,6 +37,10 @@
     h3 {
       margin-top: $spacing-unit;
       font-size: 1em;
+
+      @include media-query($sm-screen) {
+        margin-left: -18px;
+      }
     }
 
     & .container{
