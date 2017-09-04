@@ -18,7 +18,11 @@ title: About
 
 <p>Today, I am a Senior Web Developer, and have returned to working with non-profit organizations. Currently, I'm the lead developer on the new Parkinson's Foundation website.</p>
 
-<p>Having the opportunity to apply my experience towards meaningful client work has revealed a deeper purpose that I've been wanting to explore. I now want to devote my skills towards helping globally and socially conscious entrepreneurs establish their own web presence.</p>
+<blockquote class="page_quote">
+	“I became inspired to devote my skills towards helping globally and socially conscious entrepreneurs establish their own web presence.”
+</blockquote>
+
+<p>Having the opportunity to apply my experience towards meaningful client work has revealed a deeper purpose that I've been wanting to explore. I became inspired to devote my skills towards helping globally and socially conscious entrepreneurs establish their own web presence.</p>
 
 <h5 class="page_section_title text_center">Creating Gray Mint Moon</h5>
 <p>I like to think of Khristine and I as a spiritual, holistic and alternative-minded couple. We promote holistic health, natural, and organic living, and this conscious lifestyle is something we hope to pass down to our boys.</p>
@@ -27,7 +31,11 @@ title: About
 
 <p>The summer of 2017 proved to be a major season of personal and professional growth for the both of us. Khristine's intuitions led her to follow her calling to extend her passions globally. So she created a heart-centered online business as a Minimalism and Feng Shui consultant for Mothers around the world.</p>
 
-<p>Around the same time, I felt compelled to pursue an ongoing dream as well - to become a freelance web developer. For a long time I had been drawn to freelancing so I could work on projects and subjects that mean most to me. I especially wanted to leverage my expertise in front-end development with a specific client niche.</p>
+<blockquote class="page_quote">
+	“I especially wanted to leverage my expertise in front-end development with a specific client niche - holistic health entrepreneurs.”
+</blockquote>
+
+<p>Around the same time, I felt compelled to pursue an ongoing dream as well - to become a freelance web developer. For a long time I had been drawn to freelancing so I could work on projects and subjects that mean most to me. I especially wanted to leverage my expertise in front-end development with a specific client niche - holistic health entrepreneurs.</p>
 
 <p>Most importantly, having my own development and design business meant having more creative freedom and flexibility to enjoy a thriving work-life balance.</p>
 

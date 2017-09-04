@@ -42,9 +42,24 @@
 		}
 	}
 
-	&_list_icon{
+	&_list_icon {
 		color: darken($blue, 15%);
 		padding-right: $spacing-unit / 4;
+	}
+
+	&_quote {
+		padding: $spacing-unit / 2 $spacing-unit;
+		background-color: rgba(238, 243, 243, 0.5);
+		font-family: 'Benton Light', arial, sans-serif;
+		font-style: italic;
+		font-size: 1.25em;
+		margin: $spacing-unit / 2 0;
+		border-left: 5px solid $gray;
+		color: $charcoal;
+
+		@include media-query($md-screen) {
+			font-size: 1em;
+		}
 	}
 
 	&_blockquote {
