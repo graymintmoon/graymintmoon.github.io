@@ -2,26 +2,27 @@
 layout: default
 title: Home
 ---
-<div class="home_splash">
+<div class="home_splash text_center">
 	<div class="container container_xl">
-		<div class="home_splash_img">
-			<img class="img_full" src="{{site.url}}/assets/wordmark.png" alt="gray mint moon wordmark">
-		</div>
-		<div>
-			<p class="text_white">web development<br><strong><small>ux • design • strategy</small></strong><br></p>
-		</div>
+		<h1 class="text_light">
+			<span class="home_splash_title_first">GRAY</span><br>
+			<span class="home_splash_title_second">MINT</span><br>
+			<span class="home_splash_title_third">MOON</span>
+		</h1>
+		<h3 class="text_white text_light">web development and design<br>
+		for holistic entrepreneurs</h3>
 	</div>
 </div>
 <div class="row_sm">
 	<div class="container_lg text_center">
 		<h3>Our Mission</h3>
-		<p>We aim to help others pursue their own calling towards making a positive impact around the world by leveraging our natural gifts and activating our passions.</p>
+		<p>{{site.mission}}</p>
 	</div>
 </div>
 {% include offerings.html %}
 <div class="row_sm bg_lightgray">
 	<div class="container_lg">
-		<p class="text_center">Whether you're just starting, already established, a beginner, or have experience - we are willing to help. Please visit our services page to see how we can get started!</p>
+		<p class="text_center">Whether you're just starting as a beginner or already established - we are willing to help. Please visit our services page to see how we can get started!</p>
 		<a class="page_submit" href="/services">View our services</a>
 	</div>
 </div>

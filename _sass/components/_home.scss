@@ -12,18 +12,40 @@
 
   &_splash{
     min-height: 100vh;
-    background: $charcoal;
+    background: url(/assets/lunar_title_bg.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
     display: flex;
+    flex-direction: column;
+    background-attachment: scroll;
     justify-content: center;
     align-items: center;
+
+    h1 {
+      font-size: 6em;
+      display: block;
+      margin: 0 auto;
+      line-height: 1.2;
+
+      @include media-query($sm-screen) {
+        font-size: 4em;
+      }
+    }
+
+    h3 {
+      margin-top: $spacing-unit;
+      font-size: 1em;
+    }
 
     & .container{
       display: flex;
       justify-content: space-between;
       align-items: center;
+      flex-direction: column;
 
       @include media-query($md-screen) {
-        flex-direction: column;
       }
     }
 
@@ -36,11 +58,22 @@
     }
 
     &_title{
-      color: $gray;
-      font-size: 15vw;
-      line-height: 1;
-      text-transform: uppercase;
-      font-family: 'Benton Light', arial, sans-serif;
+      &_first {
+        letter-spacing: 27px;
+        color: $gray;
+      }
+      &_second {
+        color: $mint;
+        letter-spacing: 30px;
+      }
+      &_third {
+        color: $white;
+        letter-spacing: 12px;
+
+        @include media-query($sm-screen) {
+          letter-spacing: 18px;
+        }
+      }
     }
   }
 }

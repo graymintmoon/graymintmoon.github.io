@@ -3,7 +3,7 @@
 		z-index: 1;
 		position: fixed;
 		width: 100%;
-		background: $charcoal;
+		background: $white;
 		display: none;
 	}
 
@@ -23,7 +23,7 @@
 		display: inline-block;
 		text-transform: uppercase;
 		padding-right: $spacing-unit / 2;
-		color: $white;
+		color: $dark;
 		&:hover {
 			color: $jungle;
 			text-decoration: underline;
