@@ -104,6 +104,15 @@
 	&_fifth {
 		@include column_flex;
 		padding-bottom: $spacing-unit;
+
+		@include media-query($xl-screen) {
+			flex-wrap: nowrap;
+		}
+
+		@include media-query($md-screen) {
+			flex-direction: column;
+			padding-bottom: 0;
+		}
 	}
 
 }

@@ -16,5 +16,9 @@
 	}
 
 	&_fifth {
+		@include media-query($lg-screen) {
+			max-width: $spacing-unit * 8;
+			padding: $spacing-unit / 2 0;
+		}
 	}
 }
