@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Web Design and Development For Holistic Entrepreneurs
 ---
 <div class="home_splash text_center">
 	<div class="container container_xl">
