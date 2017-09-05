@@ -9,7 +9,7 @@ title: Home
 			<span class="home_splash_title_second">MINT</span><br>
 			<span class="home_splash_title_third">MOON</span>
 		</h1>
-		<h3 class="text_white text_light">web development and design<br>
+		<h3 class="text_white text_light">web design and development<br>
 		for holistic entrepreneurs</h3>
 	</div>
 </div>
@@ -36,14 +36,16 @@ title: Home
 		</div>
 		<div class="column_half">
 			<div class="column_half_block">
+				<img class="img_full img_bottom_space" src="{{site.url}}/assets/randy_tolentino.png" alt="Photo of Randy Tolentino">
 				<h3 class="text_center text_regular">Randy</h3>
 				<h5 class="text_center">CODE + DESIGN + STRATEGY</h5>
 				<p class="text_light">Randy is a Senior Web Developer with a gravitational pull towards front-end development and design. His experience includes working on major non-profit organization websites, along with full-stack software development during his time at IBM.</p>
 				<p class='text_light'>He loves spending time with his wife and two sons, as well as DIY woodworking projects. He sees the world through a spiritual lens and is always seeking ways to share what he's learned with others.</p>
 			</div>
 			<div class="column_half_block">
+				<img class="img_full img_bottom_space" src="{{site.url}}/assets/khris_tolentino.png" alt="Photo of Khristine Tolentino">
 				<h3 class="text_center text_regular">Khristine</h3>
-				<h5 class="text_center">DIGITAL MARKETING + SOCIAL MEDIA  MANAGER</h5>
+				<h5 class="text_center">DIGITAL MARKETING + SOCIAL MEDIA MANAGER</h5>
 				<p class="text_light">Khristine is a homemaker, an alternative educator, a holistic health enthusiast, and the founder of Lotus Light Moon. She helps Mothers leverage the magical benefits of Minimalism and Feng Shui in everyday family life.</p>
 				<p class="text_light">Khristine is an instinctive nurturer. She adores her husband and two sons, loves laughing with her family on the living room floor, and relishes going on family dates to discover new destinations. She enjoys traveling, learning languages, and practicing Kripalu yoga and loving-kindness meditation.</p>
 			</div>
