@@ -36,7 +36,7 @@ title: Web Design and Development For Holistic Entrepreneurs`
 		</div>
 		<div class="column_half">
 			<div class="column_half_block">
-				<img class="img_full img_bottom_space" src="{{site.url}}/assets/randy_tolentino.png" alt="Photo of Randy Tolentino">
+				<img class="img_full img_bottom_space" src="{{site.url}}/assets/ran_tolentino.png" alt="Photo of Randy Tolentino">
 				<h3 class="text_center text_regular">Randy</h3>
 				<h5 class="text_center">CODE + DESIGN + STRATEGY</h5>
 				<p class="text_light">Randy is a Senior Web Developer with a gravitational pull towards front-end development and design. His experience includes working on major non-profit organization websites, along with full-stack software development during his time at IBM.</p>
