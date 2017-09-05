@@ -10,7 +10,7 @@ title: FAQ
 
 <div class="faq">
 	<p class="faq_question">How much will my website cost?</p>
-	<p class="faq_response">We want to keep your costs as fair as possible. Our pricing model is based on the scope and complexity of what's needed - check out <a href="/services">Services page</a> to see our affordable starting points.</p>
+	<p class="faq_response">We want to keep your costs as fair as possible. Our pricing model is based on the scope and complexity of what's needed - check out <a href="/services">Services page</a> to see what we can do for you.</p>
 
 	<p class="faq_question">How long will my project take?</p>
 	<p class="faq_response">We are committed to working as efficiently as possible - the length of the project is largely dependent on the requirements of your website.</p>
