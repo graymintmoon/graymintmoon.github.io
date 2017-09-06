@@ -4,9 +4,15 @@
 		margin-bottom: 0;
 	}
 
-	&_block {
-		padding-bottom: $spacing-unit /2;
-
-		.fa {color: $blue}
+	&_content {
+		padding: $spacing-unit / 2;
 	}
+
+	&_block {
+		margin-bottom: $spacing-unit;
+		padding-bottom: $spacing-unit / 2;
+		border: 1px solid $gray;
+	}
+
+
 }
