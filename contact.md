@@ -104,6 +104,9 @@ title: Contact
 			<label class="form_label" for="competitors">Who are your top 3 competitors:</label>
 			<input type="text" class="form_input" name="competitors">
 
+			<label class="form_label" for="reference">How did you hear about us?</label>
+			<input class="form_input" name="reference" type="text">
+
 			<label class="form_label" for="extra-info">Is there anything else you would like to tell us?</label>
 			<textarea class="form_textarea" name="extra-info" rows="3"></textarea>
 		</fieldset>

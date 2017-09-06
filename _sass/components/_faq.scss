@@ -3,4 +3,10 @@
 		font-family: 'Benton Medium', arial, sans-serif;
 		margin-bottom: 0;
 	}
+
+	&_block {
+		padding-bottom: $spacing-unit /2;
+
+		.fa {color: $blue}
+	}
 }
