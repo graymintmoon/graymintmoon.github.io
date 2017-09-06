@@ -3,7 +3,8 @@ layout: page
 title: Coming Soon
 ---
 <div class="text_center">
-	<h2 class="text_charcoal">Coming Soon</h2>
-	<h4>Thanks for having interest in Gray Mint Moon. This page is currently being worked on as we speak. Seriously.</h4>
-	<p>In the meantime, you can read more <a href="/about">about us</a> or discover the many <a href="/services">services </a> we can offer.</p>
+	<h1 class="page_title">Coming Soon</h1>
+	<h4>Thank you for your patience. This page is currently being worked on as we speak. Seriously.</h4>
+	<p>In the meantime, you can read more <a href="/about"><strong>about us</strong></a> or discover the many <a href="/services"><strong>services</strong> </a> we can offer.</p>
+	<hr class="divider">
 </div>

@@ -1,10 +1,14 @@
 .page {
 	&_title {
-		padding-bottom: 1em;
+		font-size: 2.369em;
+		color: $charcoal;
+		font-family: 'Benton Regular', arial, sans-serif;
 	}
 
 	&_subtitle {
 		padding-bottom: $spacing-unit * .5;
+		font-family: 'Benton Light', arial, sans-serif;
+		font-size: 1.333em;
 	}
 
 	&_section_title {

@@ -5,8 +5,10 @@ title: Contact
 <div class="form_block">
 	<div class="form_introduction text_center">
 		<div class="container_lg">
-			<h2 class="text_charcoal">We'd love to hear from you!</h2>
-			<h4>Thank you for your interest in working with us. Please fill out and submit the questionnaire so that we can learn more about you, your business, and your overall goals.</h4>
+			<h1 class="page_title">Contact Us</h1>
+			<h4 class="page_subtitle">We'd love to hear from you!</h4>
+			<hr class="divider">
+			<p>Thank you for your interest in working with us. Please fill out and submit the questionnaire so that we can learn more about you, your business, and your overall goals.</p>
 		</div>
 	</div>
 	<form action="https://formspree.io/graymintmoon@gmail.com"

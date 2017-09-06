@@ -3,8 +3,8 @@ layout: page
 title: FAQ
 ---
 <div class="text_center">
-	<h2 class="text_charcoal">Frequently Asked Questions</h2>
-	<h4 class="page_subtitle">learn a bit about how we operate</h4>
+	<h1 class="page_title">Frequently Asked Questions</h1>
+	<h3 class="page_subtitle">learn a bit about how we operate</h3>
 	<hr class="divider">
 </div>
 <div class="faq">

@@ -2,10 +2,11 @@
 layout: blank
 title: Services
 ---
-<div class="row_sm">
-	<div class="container_lg">
-		<h3 class="text_center">Services</h3>
-		<p class="text_center text_pad_bottom">We are here to help you get your business website into the best place possible. These are just <em>some</em> of the services we offer. Please <a href="/contact">contact us</a> to see how we can best serve you!</p>
+<div class="row_md">
+	<div class="container_md text_center">
+		<h1 class="page_title">Services</h1>
+		<h3 class="page_subtitle text_pad_bottom">Here's what we can do for you</h3>
+		<hr class="divider">
 		<ul class="page_base_list">
 			<li>
 				<i class="fa fa-wordpress page_list_icon" aria-hidden="true"></i>
@@ -21,7 +22,7 @@ title: Services
 			</li>
 			<li>
 				<i class="fa fa-wrench page_list_icon" aria-hidden="true"></i>
-				Immediate Website Fixes or Updating
+				Website Fixes or Updating
 			</li>
 			<li>
 				<i class="fa fa-wordpress page_list_icon" aria-hidden="true"></i>

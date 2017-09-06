@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 <div class="text_center">
-	<h2 class="text_charcoal">About Us</h2>
-	<h4 class="page_subtitle">Following Our Calling</h4>
+	<h1 class="page_title">About Us</h1>
+	<h3 class="page_subtitle">Following our calling</h3>
 	<hr class="divider">
 </div>
 

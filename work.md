@@ -5,9 +5,9 @@ title: Work
 <div class="row_md row_trim_bottom">
 	<div class="container_md">
 		<div class="text_center">
-			<h2 class="text_charcoal">Work</h2>
+			<h1 class="page_title">Work</h1>
 			<h4 class="page_subtitle">Serving Others Through Code & Design</h4>
-			<hr class="divider_blue">
+			<hr class="divider">
 		</div>
 	</div>
 </div>
