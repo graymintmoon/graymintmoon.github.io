@@ -48,20 +48,15 @@ title: FAQ
 		</ol>
 		<p class="faq_response">Once we have all these steps completed, we can begin the work process - how exciting!</p>
 	</div>
-
-
 	<div class="faq_block">
 		<p class="faq_question">What is your work process like?</p>
 		<p class="faq_response">Our process for creating a website can be boiled down to the following phases:</p>
-		
 			<ul class="page_bulleted_list">
 				<li><strong>Discovery: </strong> it's critical to recognize your brand, business objectives, and target audience. From a design standpoint, this is one of the most important stages.</li>
 				<li><strong>Concepting & Design: </strong> we design high-level concepts of what your site should include, mindful of user experience strategies.</li>
 				<li><strong>Implementation: </strong>once we have some design artifacts, we can begin developing (coding) different pages, layouts, and user interface elements.</li>
 				<li><strong>Iteration: </strong> during the implementation phase, we revisit design and user experience; if necessary, we iterate with better ideas.</li>
-				<li><strong>Testing: </strong> although testing occurs througout the entire process, we do deeper testing across the entire site to ensure its' functioning optimally and that everything looks its best!</li>
+				<li><strong>Testing: </strong> although testing occurs throughout the entire process, we do deeper testing across the entire site to ensure its' functioning optimally and that everything looks its best!</li>
 			</ul>
-
 	</div>
-
 </div>

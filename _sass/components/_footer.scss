@@ -9,6 +9,23 @@
 		font-size: 1em;
 	}
 
+	&_social_list {
+		list-style-type: none;
+		padding-left: 0;
+
+		li {
+			display: inline-block;
+			margin-right: $spacing-unit / 2;
+			a {
+				color: $white;
+			}
+			a:hover {
+				cursor: pointer;
+				color: $mint;
+			}
+		}
+	}
+
 	&_link {
 		color: $white;
 		font-size: .875em;
