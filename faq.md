@@ -25,7 +25,7 @@ title: FAQ
 		<img class="img_full" src="{{site.url}}/assets/cost.jpg" alt="Photo by Sarah Dorweiler">
 		<div class="faq_content">
 			<p class="faq_question">How much will my website cost?</p>
-			<p class="faq_response">We want to keep your costs as fair as possible. Our pricing strategy is purely based on the scope and complexity of what's needed - check out <a href="/services"><strong>Services page</strong></a> to see what we can do for you.</p>
+			<p class="faq_response">We want to keep your costs fair and appropriate. Our pricing strategy is purely based on the scope and complexity of what's needed - check out <a href="/services"><strong>Services page</strong></a> to see what we can do for you.</p>
 		</div>
 	</div>
 	
@@ -40,7 +40,7 @@ title: FAQ
 		<img class="img_full" src="{{site.url}}/assets/design.jpg" alt="Photo by Jeshoots">
 		<div class="faq_content">
 			<p class="faq_question">Who will create the design for my website?</p>
-			<p class="faq_response">Every website we do will come with out-of-the-box styling. If you need customized work done, we can help with design. Please mention that information in the <a href="/contact"><strong>Contact Form</strong></a> and we'll be happy to work with you.</p>
+			<p class="faq_response">Every website we do will come with clean, professional styling. However, if you need customized work done, we can help with design. Please mention that information in the <a href="/contact"><strong>Contact Form</strong></a> and we'll be happy to work with you.</p>
 		</div>
 	</div>
 	<div class="faq_block">
@@ -49,16 +49,11 @@ title: FAQ
 			<p class="faq_question">How do I get started?</p>
 			<p class="faq_response">We want to make the process of collaboration as smooth as possible - our entire process can be broken down into easy-to-understand steps:</p>
 			<ol class="page_bulleted_list">
-				<li><strong>Submit questionnaire: </strong>just fill out our <a href="/contact"><strong>Contact form</strong></a> to get the conversation going.</li>
-				<li><strong>Strategy Conversation:</strong> after submitting your questionnaire, we'll review your information and follow up with a strategy conversation to better understand you, your brand, and your goals.</li>
-				<li><strong>Sign Documents:</strong> once we hold our strategy conversation, we'll send over:
-					<ul>
-						<li>A <strong>Proposal</strong> highlighting the scope of your website</li>
-						<li>A <strong>Price Estimate</strong> (with a payment schedule, if applicable) specific to your website scope and budget</li>
-						<li>A <strong>Contract</strong> with Terms and Conditions</li>
-					</ul>
+				<li><strong>Submit questionnaire: </strong>fill out our <a href="/contact"><strong>Contact form</strong></a> to get going.</li>
+				<li><strong>Strategy Conversation:</strong> we follow up with call to better understand you, your brand, and your goals.</li>
+				<li><strong>Sign Documents:</strong> we'll send a few things over for you to sign - Terms & Conditions, Pricing, and Work Proposal
 				</li>
-				<li><strong>Invoice and Payment: </strong>after reviewing, accepting, and signing the documents listed above, we'll convert the estimated costs into an invoice for your first pay installment.</li>
+				<li><strong>Invoice and Payment: </strong>after signing the documents listed above, we'll convert the estimated costs into an invoice for your first pay installment.</li>
 			</ol>
 			<p class="faq_response">Once we have all these steps completed, we can begin the work process - how exciting!</p>
 		</div>
@@ -74,7 +69,7 @@ title: FAQ
 				<li><strong>Concepting & Design: </strong> we design high-level concepts of what your site should include, mindful of user experience strategies.</li>
 				<li><strong>Implementation: </strong>once we have some design artifacts, we can begin developing (coding) different pages, layouts, and user interface elements.</li>
 				<li><strong>Iteration: </strong> during the implementation phase, we revisit design and user experience; if necessary, we iterate with better ideas.</li>
-				<li><strong>Testing: </strong> although testing occurs throughout the entire process, we do deeper testing across the entire site to ensure its' functioning optimally and that everything looks its best!</li>
+				<li><strong>Testing: </strong> although testing occurs throughout the entire process, we do deeper testing across the entire site to ensure everything is functioning optimally</li>
 			</ul>
 		</div>
 	</div>
