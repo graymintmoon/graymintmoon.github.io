@@ -31,7 +31,7 @@
 		padding-right: $spacing-unit / 2;
 		color: $dark;
 		&:hover {
-			color: $jungle;
+			color: darken($jungle, 10%);
 			text-decoration: underline;
 		}
 
