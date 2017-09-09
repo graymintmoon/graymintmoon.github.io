@@ -36,7 +36,7 @@
       }
 
       @include media-query($sm-screen) {
-        font-size: 6em;
+        font-size: 5.5em;
         line-height: .9
       }
     }
@@ -45,6 +45,9 @@
       margin-top: $spacing-unit;
       font-size: 1em;
       padding-left: 1em;
+      @include media-query($sm-screen) {
+        padding-left: .5em;
+      }      
     }
 
     & .container{

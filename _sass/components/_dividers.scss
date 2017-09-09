@@ -30,6 +30,9 @@
     margin-left: .8em;
     margin-top: .75em;
     padding-bottom: 0;
+    @include media-query($sm-screen) {
+      margin-left:.5em;
+    }
   }
 
 }
