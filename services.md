@@ -83,7 +83,7 @@ title: Services
 		</ul>
 		<div class="row_xs">
 			<div class="container_lg text_center text_small">
-				<p><span class="text_red">*</span> Because every client project is unique, prices will vary depending on the combination of development and design services needed. Rest assured that we do our best to remain affordable - our main priorities are to be collaborative as we get your business website ready for the world.</p>
+				<p><span class="text_red">*</span> Because every client project is unique, prices will vary depending on the combination of development and design services needed. Rest assured that we do our best to remain affordable - our main priority is to be collaborative as we get your business website ready for the world.</p>
 			</div>
 		</div>
 		<a class="page_submit" href="/contact">I'm ready to start</a>
