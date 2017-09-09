@@ -11,7 +11,7 @@ title: Web Design and Development For Holistic Entrepreneurs`
 		</h1>
 		<hr class="divider_splash">
 		<h3 class="text_charcoal text_light">web design and development<br>
-		for holistic entrepreneurs</h3>
+		for holistic businesses</h3>
 	</div>
 </div>
 <div class="row_sm home_mission">
