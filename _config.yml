@@ -1,12 +1,12 @@
 title: Gray Mint Moon
 email: your-email@domain.com
 description: > 
-  Gray Mint Moon offers custom web design and modern web development for holistic entrepreneurs. Let's create beautiful and intuitive websites for the soul of your brand.
-mission: Gray Mint Moon offers custom web design and modern web development for holistic entrepreneurs. Let's create beautiful and intuitive websites for the soul of your brand.
+  Gray Mint Moon offers custom web design and modern web development for holistic businesses. Let's create beautiful and intuitive websites for the soul of your brand.
+mission: Gray Mint Moon offers custom web design and modern web development for holistic businesses. Let's create beautiful and intuitive websites for the soul of your brand.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 social_username: graymintmoon
-keywords: gray mint moon, web design service, holistic entrepreneurs, holistic health web development, affordable web design, alternative health website, wordpress developer, affordable web development
+keywords: gray mint moon, web design service, holistic businesses, holistic web development, holistic website, affordable web design, alternative health website, wordpress developer, affordable web development, randy tolentino
 
 # Build settings
 markdown: kramdown
