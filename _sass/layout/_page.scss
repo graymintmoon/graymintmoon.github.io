@@ -31,8 +31,6 @@
 	}
 
 	&_bulleted_list{
-		
-
 		li {
 			font-family: 'Benton Light', arial, sans-serif;
 		}
@@ -55,7 +53,7 @@
 	}
 
 	&_list_icon {
-		color: darken($blue, 15%);
+		color: darken($jungle, 15%);
 		padding-right: $spacing-unit / 4;
 	}
 
