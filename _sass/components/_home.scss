@@ -21,7 +21,7 @@
     justify-content: center;
 
     @include media-query($sm-screen) {
-      
+      border-bottom: 1px solid $lightgray;
     }
 
     h1 {
