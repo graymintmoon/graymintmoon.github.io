@@ -2,14 +2,15 @@
 layout: default
 title: Web Design and Development For Holistic Entrepreneurs`
 ---
-<div class="home_splash text_center">
+<div class="home_splash">
 	<div class="container container_xl">
 		<h1 class="text_light site_title">
 			<span class="home_splash_title_first">GRAY</span><br>
 			<span class="home_splash_title_second">MINT</span><br>
 			<span class="home_splash_title_third">MOON</span>
 		</h1>
-		<h3 class="text_white text_light">web design and development<br>
+		<hr class="divider_splash">
+		<h3 class="text_charcoal text_light">web design and development<br>
 		for holistic entrepreneurs</h3>
 	</div>
 </div>

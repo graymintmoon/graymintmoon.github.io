@@ -16,46 +16,40 @@
 
   &_splash{
     min-height: 100vh;
-    background: url(/assets/lunar_title_bg.png) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
     display: flex;
     flex-direction: column;
-    background-attachment: scroll;
     justify-content: center;
-    align-items: center;
 
     @include media-query($sm-screen) {
-      background: url(/assets/lunar_title_mobile.png) no-repeat center center fixed; 
-      -webkit-background-size: cover;
-      -moz-background-size: cover;
-      -o-background-size: cover;
-      background-size: cover;
-      background-attachment: scroll;
+      
     }
 
     h1 {
-      font-size: 6em;
+      font-size: 10em;
       display: block;
-      margin: 0 auto;
-      line-height: 1.2;
+      line-height: .9;
+      margin-bottom: 0;
+
+      @include media-query($md-screen) {
+        font-size: 7em;
+        line-height: .9
+      }
 
       @include media-query($sm-screen) {
-        font-size: 5em;
+        font-size: 6em;
+        line-height: .9
       }
     }
 
     h3 {
       margin-top: $spacing-unit;
       font-size: 1em;
+      padding-left: 1em;
     }
 
     & .container{
       display: flex;
       justify-content: space-between;
-      align-items: center;
       flex-direction: column;
     }
 
@@ -75,7 +69,7 @@
         color: $mint;
       }
       &_third {
-        color: $white;
+        color: $lightgray;
       }
     }
   }

@@ -21,4 +21,15 @@
     border-top: 2px solid $mint;
   }
 
+  &_splash{
+    border: 0;
+    height: 0;
+    width: 12em;
+    margin: 0 auto;
+    border-top: 10px solid $lightgray;
+    margin-left: .8em;
+    margin-top: .75em;
+    padding-bottom: 0;
+  }
+
 }
