@@ -46,7 +46,7 @@ title: Web Design and Development For Holistic Entrepreneurs`
 			<div class="column_half_block">
 				<img class="img_full img_bottom_space" src="{{site.url}}/assets/khris_tolentino.png" alt="Photo of Khristine Tolentino">
 				<h3 class="text_center text_regular">Khristine</h3>
-				<h5 class="text_center">DIGITAL MARKETING + SOCIAL MEDIA MANAGER</h5>
+				<h5 class="text_center">DIGITAL MARKETING</h5>
 				<p class="text_light">Khristine is a homemaker, an alternative educator, a holistic health enthusiast, and the founder of Lotus Light Moon. She helps Mothers leverage the magical benefits of Minimalism and Feng Shui in everyday family life.</p>
 				<p class="text_light">Khristine is an instinctive nurturer. She adores her husband and two sons, loves laughing with her family on the living room floor, and relishes going on family dates to discover new destinations. She enjoys traveling, learning languages, and practicing Kripalu yoga and loving-kindness meditation.</p>
 			</div>
