@@ -10,7 +10,7 @@ title: Web Design and Development For Holistic Businesses
 			<span class="home_splash_title_third">MOON</span>
 		</h1>
 		<hr class="divider_splash">
-		<h3 class="text_charcoal text_light">web design and development<br>
+		<h3 class="text_light">web design and development<br>
 		for holistic businesses</h3>
 	</div>
 </div>

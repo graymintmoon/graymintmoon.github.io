@@ -27,8 +27,6 @@ title: About
 
 <p>Around the same time, I felt compelled to pursue an ongoing dream as well - to become a freelance web developer. For a long time I had been drawn to freelancing so I could work on projects and subjects that mean most to me. I especially wanted to leverage my expertise in front-end development with a specific client niche - holistic businesses.</p>
 
-<p>Most importantly, having my own development and design business meant having more creative freedom and flexibility to enjoy a thriving work-life balance.</p>
-
 <p>Appropriately, we discovered the opportunity to intersect both our personal callings. I decided then, it was only fitting I develop websites with a focus on helping like-minded clients who also appreciate a holistic, natural lifestyle.</p>
 
 <p>So on the fateful day of the total solar eclipse of 2017, when the Earth, Moon, and Sun wondrously aligned, we commemorated the rare celestial event by formally branding our businesses with lunar references - Lotus Light Moon and Gray Mint Moon.</p>

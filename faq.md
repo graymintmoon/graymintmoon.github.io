@@ -14,7 +14,7 @@ title: FAQ
 			<p class="faq_question">What is the value in hiring a web developer versus building a website myself?</p>
 			<p class="faq_response">As makers and independent thinkers ourselves, we absolutely encourage everyone to dive in and create their own website - we find it pretty fun. You'll want to hire a developer when:</p>
 			<ul class="page_bulleted_list">
-				<li>You want to <strong>save time</strong> to focus on other things you value</li>
+				<li>You want to <strong>save time</strong> to focus on other priorities you value</li>
 				<li>You are overwhelmed by the <strong>technical aspects</strong> of code or design</li>
 				<li>You want a <strong>customized website</strong> that represents your brand</li>
 				<li>You want a <strong>real professional</strong> website that works on any device</li>
@@ -25,7 +25,7 @@ title: FAQ
 		<img class="img_full" src="{{site.url}}/assets/cost.jpg" alt="Photo by Sarah Dorweiler">
 		<div class="faq_content">
 			<p class="faq_question">How much will my website cost?</p>
-			<p class="faq_response">We want to keep your costs fair and appropriate. Our pricing strategy is purely based on the scope and complexity of what's needed - check out <a href="/services"><strong>Services page</strong></a> to see what we can do for you.</p>
+			<p class="faq_response">We want to keep your costs fair and appropriate. Our pricing strategy is purely based on the scope and complexity of what's needed - check out our <a href="/services"><strong>Services page</strong></a> to see what we can do for you.</p>
 		</div>
 	</div>
 	
@@ -50,12 +50,12 @@ title: FAQ
 			<p class="faq_response">We want to make the process of collaboration as smooth as possible - our entire process can be broken down into easy-to-understand steps:</p>
 			<ol class="page_bulleted_list">
 				<li><strong>Submit questionnaire: </strong>fill out our <a href="/contact"><strong>Contact form</strong></a> to get going.</li>
-				<li><strong>Strategy Conversation:</strong> we follow up with call to better understand you, your brand, and your goals.</li>
-				<li><strong>Sign Documents:</strong> we'll send a few things over for you to sign - Terms & Conditions, Pricing, and Work Proposal
+				<li><strong>Strategy Conversation:</strong> we follow up a with call to better understand you, your brand, and your goals.</li>
+				<li><strong>Sign Agreement:</strong> we'll send a few things over for you to sign - Terms & Conditions, Work Proposal, and Pricing
 				</li>
-				<li><strong>Invoice and Payment: </strong>after signing the documents listed above, we'll convert the estimated costs into an invoice for your first pay installment.</li>
+				<li><strong>Invoice and Payment: </strong>once you've signed the agreement, we'll send you an invoice.</li>
 			</ol>
-			<p class="faq_response">Once we have all these steps completed, we can begin the work process - how exciting!</p>
+			<p class="faq_response">After these steps are completed, we can begin the work process - how exciting!</p>
 		</div>
 	</div>
 
@@ -69,7 +69,7 @@ title: FAQ
 				<li><strong>Concepting & Design: </strong> we design high-level concepts of what your site should include, mindful of user experience strategies.</li>
 				<li><strong>Implementation: </strong>once we have some design artifacts, we can begin developing (coding) different pages, layouts, and user interface elements.</li>
 				<li><strong>Iteration: </strong> during the implementation phase, we revisit design and user experience; if necessary, we iterate with better ideas.</li>
-				<li><strong>Testing: </strong> although testing occurs throughout the entire process, we do deeper testing across the entire site to ensure everything is functioning optimally</li>
+				<li><strong>Testing: </strong> although testing occurs throughout the entire process, we do deeper testing across the entire site to ensure everything is functioning optimally.</li>
 			</ul>
 		</div>
 	</div>
