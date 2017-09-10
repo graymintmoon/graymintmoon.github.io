@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 <div class="text_center">
-	<h1 class="page_title">About Us</h1>
+	<h1 class="page_title">About<br><span class="page_title_second">Us</span></h1>
 	<h3 class="page_subtitle">Following our calling</h3>
-	<hr class="divider">
+	<hr class="divider_red">
 </div>
 
 <h5 class="page_section_title text_center">Before Gray Mint Moon</h5>

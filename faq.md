@@ -3,9 +3,11 @@ layout: page
 title: FAQ
 ---
 <div class="text_center">
-	<h1 class="page_title">Frequently Asked Questions</h1>
+	<h1 class="page_title">Frequently<br>
+	<span class="page_title_second">Asked</span><br>
+	<span class="page_title_third">Questions</span></h1>
 	<h3 class="page_subtitle">learn a bit about how we operate</h3>
-	<hr class="divider">
+	<hr class="divider_red">
 </div>
 <div class="faq">
 	<div class="faq_block">
@@ -25,7 +27,7 @@ title: FAQ
 		<img class="img_full" src="{{site.url}}/assets/cost.jpg" alt="Photo by Sarah Dorweiler">
 		<div class="faq_content">
 			<p class="faq_question">How much will my website cost?</p>
-			<p class="faq_response">We want to keep your costs fair and appropriate. Our pricing strategy is purely based on the scope and complexity of what's needed - check out our <a href="/services"><strong>Services page</strong></a> to see what we can do for you.</p>
+			<p class="faq_response">We want to keep your costs fair and appropriate. Our pricing strategy is purely based on the scope and complexity of what's needed - check out our <a href="/services"><strong>services page</strong></a> to see what we can do for you.</p>
 		</div>
 	</div>
 	
@@ -40,7 +42,7 @@ title: FAQ
 		<img class="img_full" src="{{site.url}}/assets/design.jpg" alt="Photo by Jeshoots">
 		<div class="faq_content">
 			<p class="faq_question">Who will create the design for my website?</p>
-			<p class="faq_response">Every website we do will come with clean, professional styling. However, if you need customized work done, we can help with design. Please mention that information in the <a href="/contact"><strong>Contact Form</strong></a> and we'll be happy to work with you.</p>
+			<p class="faq_response">Every website we do will come with clean, professional styling. However, if you need customized work done, we can help with design. Please mention that information in the <a href="/contact"><strong>contact form</strong></a> and we'll be happy to work with you.</p>
 		</div>
 	</div>
 	<div class="faq_block">
@@ -49,7 +51,7 @@ title: FAQ
 			<p class="faq_question">How do I get started?</p>
 			<p class="faq_response">We want to make the process of collaboration as smooth as possible - our entire process can be broken down into easy-to-understand steps:</p>
 			<ol class="page_bulleted_list">
-				<li><strong>Submit questionnaire: </strong>fill out our <a href="/contact"><strong>Contact form</strong></a> to get going.</li>
+				<li><strong>Submit questionnaire: </strong>fill out our <a href="/contact"><strong>contact form</strong></a> to get going.</li>
 				<li><strong>Strategy Conversation:</strong> we follow up a with call to better understand you, your brand, and your goals.</li>
 				<li><strong>Sign Agreement:</strong> we'll send a few things over for you to sign - Terms & Conditions, Work Proposal, and Pricing
 				</li>

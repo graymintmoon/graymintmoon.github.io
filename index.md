@@ -17,7 +17,7 @@ title: Web Design and Development For Holistic Businesses
 <div class="row_sm home_mission">
 	<div class="container_lg text_center">
 		<h3>Our Mission</h3>
-		<hr class="divider_blue">
+		<hr class="divider">
 		<p>{{site.mission}}</p>
 	</div>
 </div>

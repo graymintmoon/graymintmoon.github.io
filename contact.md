@@ -5,9 +5,9 @@ title: Contact
 <div class="form_block">
 	<div class="form_introduction text_center">
 		<div class="container_lg">
-			<h1 class="page_title">Contact Us</h1>
+			<h1 class="page_title">Contact<br><span class="page_title_second">Us</span></h1>
 			<h4 class="page_subtitle">We'd love to hear from you!</h4>
-			<hr class="divider">
+			<hr class="divider_red">
 			<p>Thank you for your interest in working with us. Please fill out and submit the questionnaire so that we can learn more about you, your business, and your overall goals.</p>
 		</div>
 	</div>

@@ -7,7 +7,7 @@ title: Work
 		<div class="text_center">
 			<h1 class="page_title">Work</h1>
 			<h4 class="page_subtitle">Serving Others Through Code & Design</h4>
-			<hr class="divider">
+			<hr class="divider_red">
 		</div>
 	</div>
 </div>

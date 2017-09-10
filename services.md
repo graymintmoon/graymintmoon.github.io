@@ -6,7 +6,7 @@ title: Services
 	<div class="container_md text_center">
 		<h1 class="page_title">Services</h1>
 		<h3 class="page_subtitle text_pad_bottom">Here's what we can do for you</h3>
-		<hr class="divider">
+		<hr class="divider_red">
 		<ul class="page_base_list">
 			<li>
 				<i class="fa fa-wordpress page_list_icon" aria-hidden="true"></i>
