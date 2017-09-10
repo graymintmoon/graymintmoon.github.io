@@ -3,9 +3,8 @@
 		z-index: 1;
 		position: fixed;
 		width: 100%;
-		background: $white;
+		background: $jungle;
 		display: none;
-		border-bottom: 5px solid $gray;
 	}
 
 	&_title {
@@ -30,8 +29,9 @@
 		text-transform: uppercase;
 		padding-right: $spacing-unit / 2;
 		color: $dark;
+		font-family: 'Benton Regular', arial, sans-serif;
 		&:hover {
-			color: darken($jungle, 10%);
+			color: $dark;
 			text-decoration: underline;
 		}
 
