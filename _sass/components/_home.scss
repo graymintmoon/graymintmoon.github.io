@@ -11,7 +11,13 @@
   }
 
   &_mission{
-    border-bottom: 1px dotted $gray;
+    border-bottom: none;
+  }
+
+  &_offerings{
+    @include media-query($sm-screen){
+      padding-top: $spacing-unit;
+    }
   }
 
   &_splash{

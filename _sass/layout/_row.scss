@@ -55,4 +55,8 @@
 	&_full_screen{
 		min-height: 100vh;
 	}
+
+	&_bottom_space{
+		padding-bottom: $spacing-unit * 4;
+	}
 }

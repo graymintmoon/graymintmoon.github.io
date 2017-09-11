@@ -91,6 +91,20 @@
 		@include column_flex;
 	}
 
+	&_thirds_container {
+		@include column_flex;
+		align-items: flex-start;
+	}
+
+	&_third_card{
+		width: 27%;
+		padding: $spacing-unit / 2;
+		border: 1px solid $gray;
+		@include media-query($md-screen) {
+			width: 100%;
+		}
+	}
+
 	&_third_block {
 		width: 100%;
 		padding-bottom: $spacing-unit;

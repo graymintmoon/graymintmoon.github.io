@@ -81,7 +81,14 @@
   	}
 	}
 
+	&_small_img{
+		max-width: 200px;
+	}
 
+	&_bottom_space{
+		padding-top: $spacing-unit / 8;
+		padding-bottom: $spacing-unit / 2;
+	}
 
 	&_list_item {
 		font-size: .875em;
