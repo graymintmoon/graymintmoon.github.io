@@ -100,7 +100,11 @@
 		width: 27%;
 		padding: $spacing-unit / 2;
 		border: 1px solid $gray;
-		@include media-query($md-screen) {
+		box-sizing: border-box;
+		@include media-query($lg-screen) {
+			border: none;
+			padding-bottom: $spacing-unit * 1.5;
+			border-bottom: 1px solid $gray;
 			width: 100%;
 		}
 	}
