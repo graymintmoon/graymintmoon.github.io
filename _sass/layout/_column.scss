@@ -104,8 +104,10 @@
 		@include media-query($lg-screen) {
 			border: none;
 			padding-bottom: $spacing-unit * 1.5;
-			border-bottom: 1px solid $gray;
 			width: 100%;
+			&:not(:last-child){
+				border-bottom: 1px solid $gray;
+			}
 		}
 	}
 
