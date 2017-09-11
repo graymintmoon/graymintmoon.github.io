@@ -28,4 +28,4 @@ title: Web Design and Development For Holistic Businesses
 		<a class="page_submit" href="/services">View our services</a>
 	</div>
 </div>
-{% include quotes.html %}
+<!-- {% include quotes.html %} -->
