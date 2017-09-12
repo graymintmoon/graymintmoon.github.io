@@ -59,4 +59,16 @@
 	&_bottom_space{
 		padding-bottom: $spacing-unit * 4;
 	}
+
+	&_home_cta{
+		@include media-query($lg-screen) {
+			padding-bottom: $spacing-unit;
+		}
+	}
+
+	&_quotes{
+		@include media-query($lg-screen) {
+			padding-top: $spacing-unit / 2;
+		}
+	}
 }

@@ -22,10 +22,10 @@ title: Web Design and Development For Holistic Businesses
 	</div>
 </div>
 {% include offerings.html %}
-<div class="row_sm bg_lightgray">
+<div class="row_sm bg_lightgray row_home_cta">
 	<div class="container_lg">
 		<p class="text_center">Whether you're just starting as a beginner or already established - we are willing to help. Please visit our services page to see how we can get started!</p>
 		<a class="page_submit" href="/services">View our services</a>
 	</div>
 </div>
-<!-- {% include quotes.html %} -->
+{% include quotes.html %}

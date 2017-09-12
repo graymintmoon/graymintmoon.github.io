@@ -48,6 +48,22 @@
 		}
 	}
 
+	&_half_card{
+		width: 40%;
+		border: 1px solid $lightgray;
+		padding: $spacing-unit;
+		align-self: flex-start;
+		@include media-query($lg-screen) {
+			border: none;
+			width: 100%;
+			box-sizing: border-box;
+
+			&:not(:last-child){
+				border-bottom: 1px solid $lightgray;
+			}
+		}
+	}
+
 	&_half_block {
 		width: 45%;
 		padding-bottom: $spacing-unit * 1.5;
