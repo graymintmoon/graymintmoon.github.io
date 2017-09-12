@@ -30,6 +30,11 @@
     border-top: 2px solid $mint;
   }
 
+  &_white{
+    @include divider;
+    border-top: 2px solid $white;
+  }
+
   &_splash{
     border: 0;
     height: 0;
