@@ -1,6 +1,7 @@
 ---
 layout: blank
 title: About
+description: The Gray Mint Moon About page - find out more about us and why we're excited to offer web design and web development services to indie businesses, community influencers, and forward-thinkers.
 ---
 <div class="row_md row_trim_bottom">
 <div class="text_center">

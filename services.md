@@ -1,6 +1,7 @@
 ---
 layout: blank
 title: Services
+description: The Gray Mint Moon Services page - this is a list of services that we offer to our clients to help them with their websites and projects.
 ---
 <div class="row_md">
 	<div class="container_md text_center">

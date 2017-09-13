@@ -1,6 +1,7 @@
 ---
 layout: blank
 title: Work
+description: The Gray Mint Moon work page. This is a short listing of the worldwide or national companies that I have been able to code for.
 ---
 <div class="row_md row_trim_bottom">
 	<div class="container_md">
@@ -13,7 +14,7 @@ title: Work
 </div>
 <div class="row_xs">
 	<div class="container_lg">
-		In his career as a front-end developer, Randy has had the honor of working with some great organizations. Here is a list of some of the most notable companies that he has either worked for or worked with:
+		In my career as a front-end developer, I've had the honor of working with some great organizations. Here is a list of some of the most notable companies that I have either worked for or worked with:
 	</div>
 </div>
 <div class="row_xs">

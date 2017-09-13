@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQ
+description: The Gray Mint Moon FAQ page - this is a set of the most commonly asked questions that clients have asked us. Here, you'll find answers regarding how we operate and collaborate with our clients. 
 ---
 <div class="text_center">
 	<h1 class="page_title">Frequently<br>

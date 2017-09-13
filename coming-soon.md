@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Coming Soon
+description: The Gray Mint Moon Coming Soon page - this page is currently in the works, please come back for updates.
 ---
 <div class="text_center">
 	<h1 class="page_title">Coming<br><span class="page_title_second">Soon</span></h1>

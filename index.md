@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Web Design and Development For Holistic Businesses
+description: Gray Mint Moon delivers custom web design and modern web development for indie businesses, community influencers, and forward-thinkers. We build websites for the soul of your brand.
 ---
 <div class="home_splash">
 	<div class="container container_xl">

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact
+description: The Gray Mint Moon Contact Form. Potential clients or businesses who are interested in having us work on your website can fill in our contact form.
 ---
 <div class="form_block">
 	<div class="form_introduction text_center">
