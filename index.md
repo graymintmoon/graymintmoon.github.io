@@ -19,6 +19,7 @@ title: Web Design and Development For Holistic Businesses
 		<h3 class="text_white">Our Mission</h3>
 		<hr class="divider">
 		<p class="text_white">{{site.mission}}</p>
+		<p><a class="text_margin_top page_submit text_dark" href="/about">Find out who we are</a></p>
 	</div>
 </div>
 {% include offerings.html %}
