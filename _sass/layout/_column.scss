@@ -82,6 +82,13 @@
 			@include media-query($lg-screen) {
 				padding-right: 0;
 				border-right: none;
+				border-bottom: 1px dotted $jungle;
+			}
+		}
+
+		&:last-child{
+			@include media-query($lg-screen) {
+				padding-top: $spacing-unit * 1.5;
 			}
 		}
 	}	

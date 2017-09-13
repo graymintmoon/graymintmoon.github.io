@@ -15,9 +15,13 @@
 
 		li {
 			display: inline-block;
-			margin-right: $spacing-unit / 2;
+			margin-right: $spacing-unit / 4;
 			a {
 				color: $white;
+
+				img {
+					width: $spacing-unit;
+				}
 			}
 			a:hover {
 				cursor: pointer;
