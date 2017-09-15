@@ -16,10 +16,10 @@ description: Gray Mint Moon delivers custom web design and modern web developmen
 	</div>
 </div>
 <div class="row_sm home_mission bg_dark">
-	<div class="container_lg text_center">
+	<div class="container_md text_center">
 		<h3 class="text_white">Our Mission</h3>
 		<hr class="divider">
-		<p class="text_white">{{site.mission}}</p>
+		<p class="text_white">To craft authentic connections within the digital space by offering human-centered design and modern web development.</p>
 		<p><a class="text_margin_top page_submit text_dark" href="/about">Learn about us</a></p>
 	</div>
 </div>

@@ -9,7 +9,7 @@ description: The Gray Mint Moon Contact Form. Potential clients or businesses wh
 			<h1 class="page_title">Contact<br><span class="page_title_second">Us</span></h1>
 			<h4 class="page_subtitle">We'd love to hear from you!</h4>
 			<hr class="divider_red">
-			<p>Thank you for your interest in working with us. Please fill out and submit the questionnaire so that we can learn more about you, your business, and your overall goals.</p>
+			<p>Thank you for your interest in working with us. Please fill out and submit the questionnaire so that we can learn more about who you are and how we can help.</p>
 		</div>
 	</div>
 	<form action="https://formspree.io/graymintmoon@gmail.com"
