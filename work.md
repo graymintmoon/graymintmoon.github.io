@@ -17,7 +17,8 @@ description: The Gray Mint Moon work page. This is a short listing of the worldw
 		In my career as a front-end developer, I've had the honor of working with some great organizations. Here is a list of some of the most notable companies that I have either worked for or worked with:
 	</div>
 </div>
-<div class="row_xs">
+
+<!-- <div class="row_xs">
 	<div class="container_xl">
 		<div class="column_fifth">
 			<div class="column_fifth_block">
@@ -48,4 +49,4 @@ description: The Gray Mint Moon work page. This is a short listing of the worldw
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
