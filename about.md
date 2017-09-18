@@ -28,7 +28,7 @@ description: The Gray Mint Moon About page - find out more about us and why we'r
 				<h5 class="text_center">OPERATIONS</h5>
 				<p class="text_light">Hi, I'm Khristine. I'm an alternative educator, a holistic health enthusiast, a Minimalism and Feng Shui consultant, and the co-founder of Gray Mint Moon. One of my favorite facets of being an entrepreneur is exploring branding psychology. I'm fascinated by the strategies behind how to make brands lovable.</p>
 				<p class="text_light">On a personal note, above all, I am my family's keeper. Those closest to me know I'm an instinctive nurturer. My favorite moments are laughing with my husband and two sons on our living room floor. I love traveling, learning languages, and practicing Kripalu yoga and Loving-Kindness meditation.</p>
-				<p class="text_light">Balancing life as a homemaker and a businesswoman can be challenging, but I'm thankful for my full and vibrant life. I'm looking forward to connecting with you and other businesswomen in the creative and digital community!</p>
+				<p class="text_light">I'm looking forward to connecting with you and other businesswomen in the creative and digital community!</p>
 			</div>
 		</div>
 		<div class="row_sm">
