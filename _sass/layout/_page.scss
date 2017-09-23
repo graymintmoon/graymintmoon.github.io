@@ -60,9 +60,9 @@
 		background: $jungle;
 		margin: 0 auto;
 		text-align: center;
-		max-width: 10em;
+		max-width: 9em;
 		color: $charcoal;
-		padding: $spacing-unit / 4 $spacing-unit;
+		padding: $spacing-unit / 4 $spacing-unit / 2;
 		&:hover {
 			background: darken($jungle, 10%);
 			color: $white;

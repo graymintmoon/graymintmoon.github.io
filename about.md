@@ -5,7 +5,7 @@ description: The Gray Mint Moon About page - find out more about us and why we'r
 ---
 <div class="row_md row_trim_bottom">
 	<div class="text_center">
-		<h1 class="page_title">About<br><span class="page_title_second">Us</span></h1>
+		<h1 class="page_title">About <span class="page_title_second">Us</span></h1>
 		<h3 class="page_subtitle">It's nice to meet you</h3>
 		<hr class="divider_red">
 	</div>
