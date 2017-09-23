@@ -6,7 +6,7 @@ description: The Gray Mint Moon Contact Form. Potential clients or businesses wh
 <div class="form_block">
 	<div class="form_introduction text_center">
 		<div class="container_lg">
-			<h1 class="page_title">Contact<br><span class="page_title_second">Us</span></h1>
+			<h1 class="page_title">Contact <span class="page_title_second">Us</span></h1>
 			<h4 class="page_subtitle">We'd love to hear from you!</h4>
 			<hr class="divider_red">
 			<p>Thank you for your interest in working with us. Please fill out and submit the questionnaire so that we can learn more about who you are and how we can help.</p>
@@ -33,10 +33,7 @@ description: The Gray Mint Moon Contact Form. Potential clients or businesses wh
 			<input class="form_input" type="text" name="company-name" required>
 			<label class="form_label" for="company-url">Your URL address (if available)</label>
 			<input class="form_input" type="text" name="company-url">
-			
 		</fieldset>
-			
-		
 		<fieldset class="form_fieldset">
 			<h3 class="form_section_title text_center">Some helpful information</h3>
 			<label class="form_label" for="budget">What is your estimated budget?<span class="text_red">*</span></label>
