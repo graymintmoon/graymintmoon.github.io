@@ -50,7 +50,7 @@
 
 	&_half_card{
 		width: 40%;
-		border: 1px solid $lightgray;
+		border: 1px solid $gray;
 		padding: $spacing-unit;
 		align-self: flex-start;
 		@include media-query($lg-screen) {
@@ -59,7 +59,7 @@
 			box-sizing: border-box;
 
 			&:not(:last-child){
-				border-bottom: 1px solid $lightgray;
+				border-bottom: 1px solid $gray;
 			}
 		}
 	}
@@ -144,7 +144,6 @@
 
 	&_third_block {
 		width: 100%;
-		padding-bottom: $spacing-unit;
 		align-self: flex-start;
 
 		@include media-query($md-screen) {

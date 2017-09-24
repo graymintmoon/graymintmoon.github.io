@@ -51,8 +51,9 @@
 
   &_left{
     @include divider;
+    width: $spacing-unit;
     border-top: 2px solid $gray;
     margin: 0;
+    padding-bottom: 0;
   }
-
 }

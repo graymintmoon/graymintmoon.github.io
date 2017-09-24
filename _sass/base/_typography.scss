@@ -52,7 +52,6 @@ ul {
 }
 
 a {
-  transition: color .25s;
   text-decoration: none;
   color: darken($jungle, 15%);
   font-family: 'Benton Light', sans-serif;
@@ -60,7 +59,6 @@ a {
   &:hover {
     text-decoration: none;
     cursor: pointer;
-    transition: color .25s;
     color: $blue;
   }
 }

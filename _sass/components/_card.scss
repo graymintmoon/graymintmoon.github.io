@@ -1,84 +1,50 @@
-@mixin cta($color) {
-	border:1px solid $charcoal;
-	color:$dark;
-	display: block;
-	text-align: center;
-	width: 100%;
-	padding: $spacing-unit / 2 0;
-	background: $color;
-	&:hover {
-		border:1px solid $dark;
-		cursor: pointer;
-		color: $dark;
-		font-weight: bold;
-		background: darken($color,10%);
-	}
-}
-
 .card {
 	border: 2px solid $charcoal;
 	margin: $spacing-unit / 4;
 	
 	&_title {
 		padding: $spacing-unit / 2 0;
+		font-size: 1.15em;
 	}
 
 	&_content{
 		padding: $spacing-unit/2;
 	}
 
-	&_tier{
-		max-width: 50px;
-		padding: $spacing-unit / 4 0;
+	&_description{
+		border: 1px solid $gray;
+		padding: 0 $spacing-unit / 1.5 $spacing-unit $spacing-unit / 1.5; 
 	}
 
-	&_price {
-		margin-bottom: $spacing-unit / 4;
-	}
-
-	&_cta_gold {@include cta($gold);}
-	&_cta_blue {@include cta($blue);}
-	&_cta_jungle {@include cta($jungle);}
 
 	&_list {
 		list-style-type: none;
 		padding-left: 1em;
 	}
 
-	&_item_summary{
-		padding: $spacing-unit/2;
-    margin-bottom: $spacing-unit / 4;
-    border: 1px solid darken($blue, 10%);
-		color:$dark;
-		background: $lightgray;
+	&_third{
+		margin: 1em;
+		margin-bottom: $spacing-unit;
 
-		&_gold {
-	    color: $dark;
-	    padding: $spacing-unit / 2 $spacing-unit / 4;
-	    background: rgba(255, 233, 99, 0.5);
-	    border: 1px solid $gold;
-    	margin-bottom: $spacing-unit / 4;
+		&:hover{
+			box-shadow: 0 0 1em $gray;
+			-webkit-transition: box-shadow .5s; /* Safari */
+    	transition: box-shadow .5s;
+    	padding-bottom: 0;
+
+    	.divider_left{
+		    border-top: 2px solid $blue;
+		    width: $spacing-unit * 1.5;
+		    transition: all .5s;
+    	}
 		}
 
-		&_blue {
-			color: $dark;
-	    padding: $spacing-unit / 2 $spacing-unit / 4;
-			background: rgba(106, 211, 239, 0.5);
-	    border: 1px solid $blue;
-    	margin-bottom: $spacing-unit / 4;
+		@include media-query($lg-screen) {
+	    margin: 0 0 1em 0;
+			&:hover{
+				// margin-bottom: $spacing-unit;
+			}
 		}
-
-		&_jungle {
-			color: $dark;
-			background: rgba(107, 207, 184, 0.5);
-	    padding: $spacing-unit / 2 $spacing-unit / 4;
-	    border: 1px solid $jungle;
-    	margin-bottom: $spacing-unit / 4;
-		}
-
-  	&:hover {
-  		color:$dark;
-  	}
 	}
 
 	&_small_img{

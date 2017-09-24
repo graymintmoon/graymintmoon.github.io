@@ -12,7 +12,7 @@ description: The Gray Mint Moon FAQ page - this is a set of the most commonly as
 </div>
 <div class="faq">
 	<div class="faq_block">
-		<img class="img_full" src="{{site.url}}/assets/value.jpg" alt="Photo by Alejandro Escamilla">
+		<div class="faq_block_top bg_gray"></div>
 		<div class="faq_content">
 			<p class="faq_question">What is the value in hiring a web developer versus building a website myself?</p>
 			<p class="faq_response">As makers and independent thinkers ourselves, we absolutely encourage everyone to dive in and create their own website - we find it pretty fun. You'll want to hire a developer when:</p>
@@ -25,29 +25,29 @@ description: The Gray Mint Moon FAQ page - this is a set of the most commonly as
 		</div>
 	</div>
 	<div class="faq_block">
-		<img class="img_full" src="{{site.url}}/assets/cost.jpg" alt="Photo by Sarah Dorweiler">
+		<div class="faq_block_top bg_mint"></div>
 		<div class="faq_content">
 			<p class="faq_question">How much will my website cost?</p>
-			<p class="faq_response">We want to keep your costs fair and appropriate. Our pricing strategy is purely based on the scope and complexity of what's needed - check out our <a href="/services"><strong>services page</strong></a> to see what we can do for you.</p>
+			<p class="faq_response">We want to keep your costs fair and appropriate. Our pricing strategy is purely based on the scope and complexity of what's needed - feel free to <a href="mailto:graymintmoon@gmail.com"><strong>email us </strong></a> or <a href="/contact"><strong>contact us</strong></a> to see what we can do for you.</p>
 		</div>
 	</div>
 	
 	<div class="faq_block">
-		<img class="img_full" src="{{site.url}}/assets/calendar.jpg" alt="Photo by Eric Rothermel">
+		<div class="faq_block_top bg_red"></div>
 		<div class="faq_content">
 			<p class="faq_question">How long will my project take?</p>
 			<p class="faq_response">We are committed to working as efficiently as possible - the length of the project is largely dependent on the requirements of your website.</p>
 		</div>
 	</div>
 	<div class="faq_block">
-		<img class="img_full" src="{{site.url}}/assets/design.jpg" alt="Photo by Jeshoots">
+		<div class="faq_block_top bg_lightgray"></div>
 		<div class="faq_content">
 			<p class="faq_question">Who will create the design for my website?</p>
 			<p class="faq_response">Every website we do will come with clean, professional styling. However, if you need customized work done, we can help with design. Please mention that information in the <a href="/contact"><strong>contact form</strong></a> and we'll be happy to work with you.</p>
 		</div>
 	</div>
 	<div class="faq_block">
-		<img class="img_full" src="{{site.url}}/assets/start.jpg" alt="Photo by Annie Spratt">
+<div class="faq_block_top bg_gray"></div>
 		<div class="faq_content">
 			<p class="faq_question">How do I get started?</p>
 			<p class="faq_response">We want to make the process of collaboration as smooth as possible - our entire process can be broken down into easy-to-understand steps:</p>
@@ -64,7 +64,7 @@ description: The Gray Mint Moon FAQ page - this is a set of the most commonly as
 	</div>
 
 	<div class="faq_block">
-		<img class="img_full" src="{{site.url}}/assets/process.jpg" alt="Photo by Daniel Hjalmarsson">
+		<div class="faq_block_top bg_mint"></div>
 		<div class="faq_content">
 			<p class="faq_question">What is your work process like?</p>
 			<p class="faq_response">Our process for creating a website can be boiled down to the following phases:</p>
