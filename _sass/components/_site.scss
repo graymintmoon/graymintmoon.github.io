@@ -6,6 +6,7 @@
 		transition: background .25s linear;
     -webkit-transition: background .25s linear;
     -moz-transition: background .25s linear;
+    display: flex;
     @include media-query($md-screen) {
     	display: none;
     }
