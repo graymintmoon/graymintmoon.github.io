@@ -11,6 +11,11 @@
 		padding: $spacing-unit/2;
 	}
 
+	&_description{
+		border: 1px solid $gray;
+		padding: 0 $spacing-unit / 2 $spacing-unit $spacing-unit / 2; 
+	}
+
 
 	&_list {
 		list-style-type: none;
@@ -19,6 +24,19 @@
 
 	&_third{
 		margin: 1em;
+
+		&:hover{
+			box-shadow: 0 0 1em $gray;
+			-webkit-transition: box-shadow .5s; /* Safari */
+    	transition: box-shadow .5s;
+    	padding-bottom: 0;
+
+    	.divider_left{
+		    border-top: 2px solid $blue;
+		    width: $spacing-unit * 1.5;
+		    transition: all .5s;
+    	}
+		}
 	}
 
 	&_small_img{
