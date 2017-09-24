@@ -6,10 +6,12 @@ $(document).ready(function(){
 
 	$(document).scroll(function() {
 	  var y = $(this).scrollTop();
-	  if (y > 600) {
+	  if (y > 700) {
 	    $('#scrollUp').fadeIn();
+	    $('.site_nav').css('background', '#ffa3a3');
 	  } else {
 	    $('#scrollUp').fadeOut();
+	    $('.site_nav').css('background', 'white');
 	  }
 	});
 

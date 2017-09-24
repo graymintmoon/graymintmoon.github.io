@@ -1,12 +1,10 @@
 .header {
-	background: $charcoal;
 	text-align: right;
 	padding: 0 $spacing-unit / 2;
-	position: relative;
 
 	&_menu_toggle{
 		color: $jungle;
-		padding: $spacing-unit / 8;
+		padding: $spacing-unit / 8 0;
 		display: inline-block;
 		position: fixed;
 		line-height: 1;
@@ -15,6 +13,10 @@
 		box-sizing: border-box;
 		top: 0;
 		right: 10px;
+		display: none;
+		@include media-query($md-screen) {
+			display: block;
+		}
 
 		&_close{
 			color: $jungle;
@@ -25,7 +27,7 @@
 			z-index: 2;
 			border-radius: 4px;
 			box-sizing: border-box;
-			top: 7px;
+			top: 5px;
 			right: 6px;
 			display:none;
 
