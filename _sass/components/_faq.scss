@@ -15,5 +15,8 @@
 		padding-bottom: $spacing-unit / 2;
 	}
 
-
+	&_block_top{
+		height: $spacing-unit * 2;
+		display: block;
+	}
 }

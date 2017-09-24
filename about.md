@@ -20,7 +20,7 @@ description: The Gray Mint Moon About page - find out more about us and why we'r
 				<p class="text_light">What's up! I'm Randy and I'm a Senior Web Developer with a gravitational pull towards front-end development and deep appreciation for design. In my career I've been very fortunate to work on major non-profit organization websites, along with full-stack software development during my years at IBM.</p>
 				<p class='text_light'>When I'm not on my laptop, I love going on #familydates with my wife and our two boys, discovering new places and exposing the kids to new experiences.</p>
 				<p class='text_light'>When it comes to the web, I personally feel like I've learned too much to just keep it between me and the companies I've worked for. That's why I'm here - to offer my skill set to help people who need it.</p>
-				<p class='text_light'>Thank you for checkin' out our site and we hope to work with you soon!</p>
+				<p class='text_light'>Thanks visiting the site and we hope to work with you soon!</p>
 			</div>
 			<div class="column_half_block">
 				<img class="img_full img_bottom_space" src="{{site.url}}/assets/khris_tolentino.png" alt="Photo of Khristine Tolentino">

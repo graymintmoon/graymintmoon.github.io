@@ -48,6 +48,6 @@ description: The Gray Mint Moon Contact Form. Potential clients or businesses wh
 			<label class="form_label" for="extra-info">Is there anything else you would like to tell us?</label>
 			<textarea class="form_textarea" name="extra-info" rows="3"></textarea>
 		</fieldset>
-		<input class="form_submit text_charcoal" type="submit" value="Submit">
+		<input class="page_submit text_charcoal" type="submit" value="Submit">
 	</form>
 </div>

@@ -61,12 +61,17 @@
 		margin: 0 auto;
 		text-align: center;
 		max-width: 9em;
+		border: none;
 		color: $charcoal;
 		padding: $spacing-unit / 4 $spacing-unit / 2;
+		transition: all .5s;
 		&:hover {
 			background: darken($jungle, 10%);
-			color: $white;
+			color: $dark;
 			cursor: pointer;
+			box-shadow: 0 0.15em 1em -0.4em $charcoal;
+		  transform: translateY(-0.15em);
+		  transition: all .5s;
 		}
 	}
 

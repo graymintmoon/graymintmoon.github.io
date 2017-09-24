@@ -13,7 +13,7 @@
 
 	&_description{
 		border: 1px solid $gray;
-		padding: 0 $spacing-unit / 2 $spacing-unit $spacing-unit / 2; 
+		padding: 0 $spacing-unit / 1.5 $spacing-unit $spacing-unit / 1.5; 
 	}
 
 
@@ -24,6 +24,7 @@
 
 	&_third{
 		margin: 1em;
+		margin-bottom: $spacing-unit;
 
 		&:hover{
 			box-shadow: 0 0 1em $gray;
@@ -36,6 +37,13 @@
 		    width: $spacing-unit * 1.5;
 		    transition: all .5s;
     	}
+		}
+
+		@include media-query($lg-screen) {
+	    margin: 0 0 1em 0;
+			&:hover{
+				// margin-bottom: $spacing-unit;
+			}
 		}
 	}
 
