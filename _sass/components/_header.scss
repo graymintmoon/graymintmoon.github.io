@@ -12,7 +12,7 @@
 		border-radius: 4px;
 		box-sizing: border-box;
 		top: 0;
-		right: 10px;
+		right: 5px;
 		display: none;
 		@include media-query($md-screen) {
 			display: block;
@@ -28,7 +28,7 @@
 			border-radius: 4px;
 			box-sizing: border-box;
 			top: 5px;
-			right: 6px;
+			right: 3px;
 			display:none;
 
 			&:hover{
