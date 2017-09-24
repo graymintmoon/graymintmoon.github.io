@@ -4,7 +4,11 @@
 		<hr class="divider_red">
 		<div class="column_thirds">
 			<div class="column_third_block card_third">
-				<img class="img_full" src="{{site.url}}/assets/setup.jpg" alt="photo of computer setup">
+				<picture>
+				  <source class="img_full" media="(min-width: 40em)" srcset="{{site.url}}/assets/setup-desktop.jpg">
+				  <source class="img_full" media="(min-width: 30em)" srcset="{{site.url}}/assets/setup-mobile.jpg">
+				  <img class="img_full" src="{{site.url}}/assets/setup-desktop.jpg" alt="photo of desk setup">
+				</picture>
 				<div class="card_description">
 					<h4 class="card_title text_regular">Customized for you</h4>
 					<hr class="divider_left">
@@ -12,7 +16,12 @@
 				</div>
 			</div>
 			<div class="column_third_block card_third">
-				<img class="img_full" src="{{site.url}}/assets/sketches.jpg" alt="photo of website sketches">
+				<picture>
+				  <source class="img_full" media="(min-width: 40em)" srcset="{{site.url}}/assets/sketches-desktop.jpg">
+				  <source class="img_full" media="(min-width: 30em)" srcset="{{site.url}}/assets/sketches-mobile.jpg">
+				  <img class="img_full" src="{{site.url}}/assets/sketches-desktop.jpg" alt="photo of website sketches">
+				</picture>
+
 				<div class="card_description">
 					<h4 class="card_title text_regular">Design thinking & UX</h4>
 					<hr class="divider_left">
@@ -20,7 +29,10 @@
 				</div>
 			</div>
 			<div class="column_third_block card_third">
-				<img class="img_full" src="{{site.url}}/assets/optimize.jpg" alt="photo of web optimization graphic">
+				  <source class="img_full" media="(min-width: 40em)" srcset="{{site.url}}/assets/optimize-desktop.jpg">
+				  <source class="img_full" media="(min-width: 30em)" srcset="{{site.url}}/assets/optimize-mobile.jpg">
+				  <img class="img_full" src="{{site.url}}/assets/optimize-desktop.jpg" alt="photo of web optimization">
+				</picture>
 				<div class="card_description">
 					<h4 class="card_title text_regular">Website optimization</h4>
 					<hr class="divider_left">
