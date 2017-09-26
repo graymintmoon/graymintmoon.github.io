@@ -54,7 +54,7 @@ description: The Gray Mint Moon FAQ page - this is a set of the most commonly as
 			<ol class="page_bulleted_list">
 				<li><strong>Submit questionnaire: </strong>fill out our <a href="/contact"><strong>contact form</strong></a> to get going.</li>
 				<li><strong>Discovery conversation:</strong> we follow up with a call to better understand you, your brand, and your goals.</li>
-				<li><strong>Dev & Design Treatment:</strong> we offer a free analysis and proposal of what we envision given your goals for your newly minted site.</li>
+				<li><strong>Dev & Design Plan:</strong> we offer a free analysis and proposal of what we envision given your goals for your newly minted site.</li>
 				<li><strong>Sign contract:</strong> we'll send a contract for you to review and sign.
 				</li>
 				<li><strong>Invoice and payment: </strong>once you've signed our contract, we'll send you an invoice.</li>
