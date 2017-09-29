@@ -51,6 +51,7 @@
       margin-top: $spacing-unit;
       font-size: 1em;
       padding-left: 1em;
+      max-width: 485px;
       @include media-query($sm-screen) {
         padding-left: .5em;
       }      

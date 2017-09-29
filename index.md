@@ -11,8 +11,8 @@ description: Gray Mint Moon delivers custom web design and modern web developmen
 			<span class="home_splash_title_third">MOON</span>
 		</h1>
 		<hr class="divider_splash">
-		<h3 class="text_light"><strong>web design and development</strong><br>
-		for indie businesses, community influencers, and forward-thinkers</h3>
+		<h3 class="text_light"><strong>Design + Code + UX + Community</strong><br>
+		Contemporary web design and web development solutions for creative and conscious entrepreneurs.</h3>
 	</div>
 </div>
 <div class="row_sm home_mission bg_dark">
