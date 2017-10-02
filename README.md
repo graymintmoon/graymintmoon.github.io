@@ -1,11 +1,12 @@
-# GRAY MINT MOON
+# GRAY MINT MOON WEBSITE
 
 ### Welcome
 
-Thanks for checking out the Gray Mint Moon Studio repository. This repo houses the files for the graymintmoon.com website, set to release any day now.
+Thanks for checking out the Gray Mint Moon, LLC repository. This repo houses the files for the graymintmoon.com website.
+
 
 #### Mission
 
-Gray Mint Moon believes that you, yes you, are meant to have a significant impact on the world. We thrive in helping people fulfill their personal missions by offering web development and design services to digital nomads and entrepreneurs. If you're interested in creating a new website, application, or just need guidance in establishing your online presence, please reach out.
+To craft authentic connections within the digital space by offering human-centered design and modern web development.
 
-Let's launch something for the world!
+
