@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contemporary web design and web development solutions for creative and conscious entrepreneurs.
-description: Gray Mint Moon delivers custom web design and modern web development for indie businesses, community influencers, and forward-thinkers. We build websites for the soul of your brand.
+description: Contemporary web design and web development solutions for creative and conscious entrepreneurs.
 ---
 <div class="home_splash">
 	<div class="container container_xl">
